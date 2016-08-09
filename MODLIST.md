@@ -58,6 +58,7 @@ To make a request, please use the [GitHub issues](https://github.com/DNSTechpack
 
 <hr>
 
+* Actually Additions
 * *Botania Unofficial*
 * EnergySynergy
 * **Integrated Dynamics | Correlated Potentialistics | Refined Storage**
