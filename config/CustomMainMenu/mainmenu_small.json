@@ -1,0 +1,297 @@
+{
+    "images":
+    {
+
+		"menuoutline":
+        {
+            "image" : "dns:textures/faded.png",
+            "posX" : 0,
+            "posY" : 0,
+            "width" : 900,
+            "height" : 2400,
+            "alignment" : "top_left"
+        },
+		
+		"logo":
+        {
+            "image" : "dns:textures/logo.png",
+            "posX" : 30,
+            "posY" : 5,
+            "width" : 390,
+            "height" : 180,
+			"alignment" : "top_left"
+        }
+    },
+   
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+            "posX" : 15,
+            "posY" : 210,
+            "width" : 330,
+            "height" : 120,
+			"imageWidth":2400,
+			"imageHeight":871,
+            "texture":"dns:textures/btnSingle.png",
+			"alignment" : "top_left",
+			"hoverTextColor":000255000,
+			"action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+       
+        "multiplayer":
+        {
+            "text" : "",
+            "posX" : 195,
+            "posY" : 330,
+            "width" : 330,
+            "height" : 120,
+			"imageWidth":2400,
+			"imageHeight":871,
+            "texture":"dns:textures/btnMulti.png",
+			"alignment" : "top_left",
+			"hoverTextColor":000255000,
+			"action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+       
+        "mods":
+        {
+            "text" : " ",
+            "posX" : 15,
+            "posY" : 450,
+            "width" : 330,
+            "height" : 120,
+			"imageWidth":2400,
+			"imageHeight":871,
+            "texture":"dns:textures/btnMods.png",
+            "alignment" : "top_left",
+			"hoverTextColor":000255000,
+			"action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+           
+        "options":
+        {
+            "text" : "",
+            "posX" : 195,
+            "posY" : 570,
+            "width" : 330,
+            "height" : 120,
+			"imageWidth":2400,
+			"imageHeight":871,
+            "texture":"dns:textures/btnOption.png",
+            "alignment" : "top_left",
+			"hoverTextColor":000255000,
+			"action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+       
+        "quit":
+        {
+            "text" : "",
+            "posX" : 15,
+            "posY" : 690,
+            "width" : 330,
+            "height" : 120,
+			"imageWidth":2400,
+			"imageHeight":871,
+            "texture":"dns:textures/btnQuit.png",
+            "alignment" : "top_left",
+			"hoverTextColor":000255000,
+			"action" :
+            {
+                "type" : "quit"
+            }
+        },
+       
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -75,
+            "posY" : 15,
+            "width" : 60,
+            "height" : 60,
+			"imageWidth":200,
+			"imageHeight":200,
+            "alignment" : "top_right",
+			"texture" : "dns:textures/refresh.png",
+			"action" :
+            {
+                "type" : "refresh"
+            }
+        },
+		
+        "msd":
+        {
+            "text":"",
+			"posX":-270,
+            "posY":-165,
+            "width":240,
+            "height":90,
+			"imageWidth":315,
+			"imageHeight":110,
+			"texture":"dns:textures/msd.png",
+            "alignment":"bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+					"link" : "https://minecraftserverdeals.com"
+            }
+        },
+		
+		"facebook":
+        {
+            "text":"",
+			"posX":-135,
+            "posY":-300,
+            "width":120,
+            "height":120,
+			"imageWidth":200,
+			"imageHeight":200,
+			"texture":"dns:textures/facebook.png",
+            "alignment":"bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+					"link" : "https://www.facebook.com/pages/DNS-Techpack/196700523809130"
+            }
+        },
+		
+		"discord":
+        {
+            "text":"",
+			"posX":-285,
+            "posY":-450,
+            "width":270,
+            "height":135,
+			"imageWidth":600,
+			"imageHeight":300,
+			"texture":"dns:textures/discord.png",
+            "alignment":"bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+					"link" : "https://discordapp.com/invite/0abLGwcRy9amWzRa"
+            }
+        },
+	
+		"twitter":
+        {
+            "text":"",
+			"posX":-270,
+            "posY":-300,
+            "width":120,
+            "height":120,
+			"imageWidth":200,
+			"imageHeight":200,
+			"texture":"dns:textures/twitter.png",
+            "alignment":"bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+                                "link" : "https://www.twitter.com/DNSTechpack"
+            }
+        }
+	},
+   
+    "texts":
+    {		
+		"dns":
+        {
+            "text" : "DNS Techpack 10.0.0.0",
+			"hoverText": "DNS Techpack 10.0.0.0",
+            "posX" : -330,
+            "posY" : -75,
+			"color" : 43520,
+			"hoverColor" : 5635925,
+			"fontSize" : 3,
+			"action" :
+				{
+					"type" : "openLink",
+						"link" : "http://dnstechpack.com"
+				},
+            "alignment" : "bottom_right"
+        },
+		"staff":
+        {
+            "text" : "Current Staff:",
+            "posX" : -600,
+            "posY" : -45,
+			"color" : 43690,
+			"hoverColor" : 43690,
+			"fontSize" : 3,
+            "alignment" : "bottom_right"
+        },
+		"madcock":
+        {
+            "text" : "madcock83",
+			"hoverText" : "madcock83",
+            "posX" : -180,
+            "posY" : -45,
+			"color" : 43690,
+			"hoverColor" : 5636095,
+			"fontSize" : 3,
+			"action" :
+				{
+					"type" : "openLink",
+						"link" : "http://twitter.com/TheRealMadCock"
+				},
+            "alignment" : "bottom_right"
+        },
+		"IAmOmicron":
+        {
+            "text" : "IAmOmicron",
+			"hoverText" : "IAmOmicron",
+            "posX" : -369,
+            "posY" : -45,
+			"color" : 43690,
+			"hoverColor" : 5636095,
+			"fontSize" : 3,
+			"action" :
+				{
+					"type" : "openLink",
+						"link" : "http://twitter.com/IAmOmicron"
+				},
+            "alignment" : "bottom_right"
+		},
+		"comma2":
+        {
+            "text" : ",",
+            "posX" : -201,
+            "posY" : -45,
+			"color" : 43690,
+			"hoverColor" : 43690,
+			"fontSize" : 3,
+            "alignment" : "bottom_right"
+        }
+    },
+   
+    "other":
+    {
+		"background":
+        {
+            "image" : "",
+			"slideshow":
+            {
+                "images" : ["dns:background/background1.png","dns:background/background2.png","dns:background/background3.png","dns:background/background4.png","dns:background/background5.png","dns:background/background6.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
+        }
+    }
+}
