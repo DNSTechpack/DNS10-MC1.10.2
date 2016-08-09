@@ -123,7 +123,7 @@
         {
             "text" : "",
             "posX" : -25,
-            "posY" : 5,
+            "posY" : 15,
             "width" : 20,
             "height" : 20,
 			"imageWidth":200,
@@ -215,7 +215,7 @@
         {
             "text" : "DNS Techpack 10.0.0.0",
 			"hoverText": "DNS Techpack 10.0.0.0",
-            "posX" : -110,
+            "posX" : -116,
             "posY" : -25,
 			"color" : 43520,
 			"hoverColor" : 5635925,
@@ -276,10 +276,10 @@
         },
 		"Forge":
         {
-            "text" : "Mods: #modsloaded# loaded!",
-			"hoverText" : "Mods: #modsactive# active!",
-            "posX" : -123,
-            "posY" : -15,
+            "text" : "Mods: #modsloaded# loaded",
+			"hoverText" : "Mods: #modsactive# active",
+            "posX" : -83,
+            "posY" : 5,
 			"color" : 43690,
 			"hoverColor" : 5636095,
             "alignment" : "top_right"

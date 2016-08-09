@@ -65,7 +65,7 @@
         <!-- Forge -->
         <mod name="Minecraft Forge" version="1.10.2-12.18.1.2049" url="packs/DNSTechpack/files/libs1102/forge-1.10.2-12.18.1.2049-universal.jar" file="forge-1.10.2-12.18.1.2049-universal.jar" md5="ee2cc5cf41311bde3aaa0167ab7b5abf" download="server" type="forge" website="http://minecraftforge.net" description="Core modding API used for the majority of mods." />
         
-        <mod name="DNS Loading Resources" version="1.0.0" url="packs/DNSTechpack/files/extra/menuResources.zip" file="menuResources.zip" md5="6317d18e18448ff939e934c7e6538988" download="server" server="no" type="extract" extractto="root" website="http://dnstechpack.com" description="DNS Techpack Resources"/>
+        <mod name="DNS Menu Resources" version="1.0.0" url="packs/DNSTechpack/files/extra/menuResources.zip" file="menuResources.zip" md5="6317d18e18448ff939e934c7e6538988" download="server" server="no" type="extract" extractto="root" website="http://dnstechpack.com" description="DNS Techpack Resources"/>
         
         <!-- Core Mods -->
         <mod name="Baubles" version="1.9.4-1.2.1.0" url="packs/DNSTechpack/files/libs1102/Baubles-1.9.4-1.2.1.0.jar" file="Baubles-1.9.4-1.2.1.0.jar" md5="47ca37ca2019bb4f143a1e9be06911d3" download="server" type="mods" website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif" authors="Azanor" description="Adding a touch of bling to Minecraft" />
@@ -75,6 +75,8 @@
         <mod name="Code Chicken Core" version="2.1.7.77" url="packs/DNSTechpack/files/libs1102/CodeChickenCore-1.10.2-2.1.7.77-universal.jar" file="CodeChickenCore-1.10.2-2.1.7.77-universal.jar" md5="a558b3481b610682fcc35842b99f7955" download="server" type="mods" website="http://chickenbones.net/" description="Core mod / library for ChickenBones' mods." />
         
         <mod name="CodeChickenLib" version="2.2.2.54" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.2.2.54-universal.jar" file="CodeChickenLib-1.10.2-2.2.2.54-universal.jar" md5="0765a9ae960c55e0a2e5c16491c7b3f7" download="server" type="mods" website="http://chickenbones.net/" description="Core mod / library for ChickenBones' mods." />
+        
+        <mod name="ElecCore | Rendering Library" version="1.5.303" url="packs/DNSTechpack/files/libs1102/ElecCore-1.9.4-1.5.303.jar" file="ElecCore-1.9.4-1.5.303.jar" md5="288c68a4241055797273c8b7a75dd27d" download="server" type="mods" website="http://www.curseforge.com/projects/227391/" authors="Elec332" description="Shared code for Forge mods" />
         
         <mod name="EnderCore" version="1.10.2-0.4.1.47-beta" url="packs/DNSTechpack/files/libs1102/EnderCore-1.10.2-0.4.1.47-beta.jar" file="EnderCore-1.10.2-0.4.1.47-beta.jar" md5="e1577117a3e9adc9d789ba348203ee19" download="server" type="mods" website="http://enderio.com" authors="tterrag,CrazyPants" description="Library mod used by EnderIO, EnderZoo, and others" />
         
