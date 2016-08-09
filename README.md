@@ -9,7 +9,9 @@ The core repository, for files and changes for the DNS Techpack, for Minecraft 1
 
 # Requests
 
-To make a mod request, please use the [GitHub issues](https://github.com/DNSTechpack/DNS10-MC1.10.2/issues) page. Please do not make a mod request if we already have it listed as added or being considered on the [Mod List](https://github.com/DNSTechpack/DNS10-MC1.10.2/blob/master/MODLIST.md) page. Also, please try to avoid making multiple issues for the same mod.
+To make a mod request, please use the [GitHub issues](https://github.com/DNSTechpack/DNS10-MC1.10.2/issues) page.
+
+Please do not make a mod request if we already have it listed as added or being considered on the [Mod List](https://github.com/DNSTechpack/DNS10-MC1.10.2/blob/master/MODLIST.md) page. Also, please try to avoid making multiple issues for the same mod.
 
 # Bugs / Issues
 
