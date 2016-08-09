@@ -50,7 +50,7 @@
 
 To make a request, please use the [GitHub issues](https://github.com/DNSTechpack/DNS10-MC1.10.2/issues) page. Please do not make a mod request if we already have it listed as added. Also, please try to avoid making multiple issues for the same mod.
 
-# Currently Considering
+# Considerations
 
 **Bold** = These mods are very similar and therefore need further discussion before adding one (or multiple) of them.
 
@@ -58,8 +58,10 @@ To make a request, please use the [GitHub issues](https://github.com/DNSTechpack
 
 <hr>
 
+* *Botania Unofficial*
 * EnergySynergy
 * **Integrated Dynamics | Correlated Potentialistics | Refined Storage**
 * Item Scroller
+* * *Psi*
 * *Tech Reborn*
 * VeinMiner (Probably limited to trees)
