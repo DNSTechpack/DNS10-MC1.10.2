@@ -54,15 +54,14 @@ To make a request, please use the [GitHub issues](https://github.com/DNSTechpack
 
 **Bold** = These mods are very similar and therefore need further discussion before adding one (or multiple) of them.
 
-*Italics* = Most likely an Optional Mod
-
 <hr>
 
 * Actually Additions
-* *Botania Unofficial*
+* Botania Unofficial
 * EnergySynergy
 * **Integrated Dynamics | Correlated Potentialistics | Refined Storage**
 * Item Scroller
-* * *Psi*
-* *Tech Reborn*
+* Psi
+* Storage Drawers
+* Tech Reborn
 * VeinMiner (Probably limited to trees)
