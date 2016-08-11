@@ -1,0 +1,320 @@
+[02:47:32] [main/INFO]: LiteLoader 1.10.2 starting up...
+[02:47:32] [main/INFO]: Active Pack: 1.10.2-SNAPSHOT-rFF13A62-b6-6
+[02:47:32] [main/INFO]: Java reports OS="windows 10"
+[02:47:32] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[02:47:32] [main/INFO]: Enumerating class path...
+[02:47:32] [main/INFO]: Class path separator=";"
+[02:47:32] [main/INFO]: Class path entries=(
+   classpathEntry=E:\Installed Games Folder\ATLauncher\ATLauncher.exe
+   classpathEntry=anything
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\jarmods\forge-1.10.2-12.18.1.2049-universal.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\launchwrapper-1.12.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\asm-all-5.0.3.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jline-2.13.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\akka-actor_2.11-2.3.3.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\config-1.2.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-compiler-2.11.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-library-2.11.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-reflect-2.11.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-swing_2.11-1.0.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-xml_2.11-1.0.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\lzma-0.0.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jopt-simple-4.6.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\vecmath-1.5.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\trove4j-3.0.3.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\netty-1.6.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\oshi-core-1.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jna-3.4.0.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\platform-3.4.0.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\icu4j-core-mojang-51.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\codecjorbis-20101023.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\codecwav-20101023.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\libraryjavasound-20101123.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\librarylwjglopenal-20100824.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\soundsystem-20120107.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\netty-all-4.0.23.Final.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\guava-17.0.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-lang3-3.3.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-io-2.4.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-codec-1.9.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jinput-2.0.5.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jutils-1.0.0.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\gson-2.2.4.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\authlib-1.5.22.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\realms-1.9.3.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-compress-1.8.1.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\httpclient-4.3.3.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-logging-1.1.3.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\httpcore-4.3.2.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\fastutil-7.0.12_mojang.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\log4j-api-2.0-beta9.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\log4j-core-2.0-beta9.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\lwjgl-2.9.4-nightly-20150209.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\lwjgl_util-2.9.4-nightly-20150209.jar
+   classpathEntry=E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\minecraft.jar
+)
+[02:47:32] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[02:47:32] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods]
+[02:47:32] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\1.10.2]
+[02:47:32] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@34a0ef00]
+[02:47:32] [main/INFO]: Discovering tweaks on class path...
+[02:47:32] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[02:47:32] [main/INFO]: Discovering valid mod files in folder E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Baubles-1.9.4-1.2.1.0.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Baubles-1.9.4-1.2.1.0.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'bdlib-1.12.0.2-mc1.10.2.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\bdlib-1.12.0.2-mc1.10.2.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'BiomesOPlenty-1.9.4-4.1.0.2065-universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\BiomesOPlenty-1.9.4-4.1.0.2065-universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'BloodMagic-1.9.4-2.0.3-54.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\BloodMagic-1.9.4-2.0.3-54.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Bookshelf-1.10.2-1.3.0.282.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Bookshelf-1.10.2-1.3.0.282.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Botania-unofficial.r1.8-315.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Botania-unofficial.r1.8-315.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Calculator-1.9.4-3.1.0.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Calculator-1.9.4-3.1.0.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Chameleon-1.9.4-2.1.6.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Chameleon-1.9.4-2.1.6.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'ChickenChunks-1.10.2-2.1.3.36-universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\ChickenChunks-1.10.2-2.1.3.36-universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Chisel-MC1.9.4-0.0.6.33.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Chisel-MC1.9.4-0.0.6.33.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'chiselsandbits-11.10.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\chiselsandbits-11.10.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'CodeChickenCore-1.10.2-2.1.8.78-universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\CodeChickenCore-1.10.2-2.1.8.78-universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'CompactSolars-1.10.2-5.0.4.328-universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\CompactSolars-1.10.2-5.0.4.328-universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'craftingtweaks-mc1.9.4-5.0.6.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\craftingtweaks-mc1.9.4-5.0.6.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'CraftTweaker-1.10.2-3.0.10.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\CraftTweaker-1.10.2-3.0.10.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'CrashLogAdditions-1.10.2-1.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\CrashLogAdditions-1.10.2-1.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'CustomMainMenu-MC1.9.4-2.0.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\CustomMainMenu-MC1.9.4-2.0.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'DarkUtilities-1.10.2-1.1.3.70.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\DarkUtilities-1.10.2-1.1.3.70.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'deepresonance-1.10-1.2.0beta36.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\deepresonance-1.10-1.2.0beta36.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'ElecCore-1.9.4-1.5.303.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\ElecCore-1.9.4-1.5.303.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'EnderCore-1.10.2-0.4.1.47-beta.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\EnderCore-1.10.2-0.4.1.47-beta.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'EnderIO-1.10.2-3.0.1.86_beta.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\EnderIO-1.10.2-3.0.1.86_beta.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'EnderStorage-1.10.2-2.1.3.72-universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\EnderStorage-1.10.2-2.1.3.72-universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'extrautils2-1.10.2-alpha-1.0.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\extrautils2-1.10.2-alpha-1.0.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Flux-Networks-1.9.4-1.0.3.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Flux-Networks-1.9.4-1.0.3.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'forestry_1.10.2-5.2.7.220.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\forestry_1.10.2-5.2.7.220.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'gendustry-1.6.4.8-mc1.10.2.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\gendustry-1.6.4.8-mc1.10.2.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'generators-0.9.20.4-mc1.10.2.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\generators-0.9.20.4-mc1.10.2.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'industrialcraft-2-2.6.37-ex110.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\industrialcraft-2-2.6.37-ex110.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'InventoryTweaks-1.61-58.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\InventoryTweaks-1.61-58.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'ironchest-1.10.2-7.0.9.796.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\ironchest-1.10.2-7.0.9.796.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'jeibees-0.9.0.1-mc1.10.2.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\jeibees-0.9.0.1-mc1.10.2.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'jei_1.10.2-3.7.11.238.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\jei_1.10.2-3.7.11.238.jar
+[02:47:32] [main/WARN]: Could not parse jar metadata in 'E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\journeymap-1.10.2-5.2.4-unlimited.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\journeymap-1.10.2-5.2.4-unlimited.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'liteloader-1.10.2-SNAPSHOT-release.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\liteloader-1.10.2-SNAPSHOT-release.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'malisiscore-1.9.4-4.1.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\malisiscore-1.9.4-4.1.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'malisisdoors-1.9.4-5.0.2.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\malisisdoors-1.9.4-5.0.2.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Mantle-1.10.2-0.10.4.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Mantle-1.10.2-0.10.4.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'mcjtylib-1.10-1.9.9.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mcjtylib-1.10-1.9.9.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Mekanism-1.10.2-9.1.1.290.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Mekanism-1.10.2-9.1.1.290.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'MekanismGenerators-1.10.2-9.1.1.290.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\MekanismGenerators-1.10.2-9.1.1.290.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'MekanismTools-1.10.2-9.1.1.290.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\MekanismTools-1.10.2-9.1.1.290.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'ModTweaker2-2.0.0.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\ModTweaker2-2.0.0.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'mod_worldeditcui_1.10_00_lite_mc1.10.litemod'
+[02:47:32] [main/INFO]: Considering valid mod file: E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mod_worldeditcui_1.10_00_lite_mc1.10.litemod
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Morph-o-Tool-1.0-6.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Morph-o-Tool-1.0-6.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'NotEnoughItems-1.10.2-2.1.1.145-universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\NotEnoughItems-1.10.2-2.1.1.145-universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'OreDictionaryConverter-1.9.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\OreDictionaryConverter-1.9.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Pams HarvestCraft 1.9.4-1.10.2b.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Pams HarvestCraft 1.9.4-1.10.2b.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Psi-r1.0-37.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Psi-r1.0-37.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'RandomThings-MC1.10.2-3.7.5.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\RandomThings-MC1.10.2-3.7.5.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'ResourceLoader-MC1.9.4-1.5.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\ResourceLoader-MC1.9.4-1.5.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'rftools-1.10-5.11.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\rftools-1.10-5.11.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'rftoolsdim-1.10-4.30beta46.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\rftoolsdim-1.10-4.30beta46.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'RouterReborn-1.10.2-4.0.1.19_universal.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\RouterReborn-1.10.2-4.0.1.19_universal.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'SonarCore-1.9.4-3.1.1.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\SonarCore-1.9.4-3.1.1.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'StorageDrawers-1.10.2-3.2.2.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\StorageDrawers-1.10.2-3.2.2.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'TConstruct-1.10.2-2.4.0.jenkins312.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\TConstruct-1.10.2-2.4.0.jenkins312.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Tesla-1.10.2-1.2.1.42.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Tesla-1.10.2-1.2.1.42.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Waila-1.7.0-B3_1.9.4.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Waila-1.7.0-B3_1.9.4.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'WailaHarvestability-mc1.10-1.1.7.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\WailaHarvestability-mc1.10-1.1.7.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'Wawla-1.10.2-2.3.0.197.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\Wawla-1.10.2-2.3.0.197.jar
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'worldedit-forge-mc1.9.4-6.1.3-dist.jar'
+[02:47:32] [main/INFO]: Ignoring E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\worldedit-forge-mc1.9.4-6.1.3-dist.jar
+[02:47:32] [main/INFO]: Adding newest valid mod file 'E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mod_worldeditcui_1.10_00_lite_mc1.10.litemod' at revision 11000.0000
+[02:47:32] [main/INFO]: Discovering valid mod files in folder E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\1.10.2
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.10.2-2.2.3.57-universal.jar'
+[02:47:32] [main/INFO]: Inspecting jar metadata in 'MCMultiPart-1.2.1-universal.jar'
+[02:47:32] [main/INFO]: Initialising LiteLoader Mixins
+[02:47:32] [main/INFO]: LiteLoader PREINIT complete
+[02:47:33] [main/INFO]: FML detected, switching to searge mappings
+[02:47:33] [main/INFO]: MinecraftTransformer found INIT injection point, this is good.
+[02:47:36] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[02:47:36] [Client thread/INFO]: Successfully generated event handler proxy class with 0 handlers(s) and 0 total invocations
+[02:48:24] [Client thread/INFO]: JInput Component Registry is initialising...
+[02:48:24] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller Blue Snowball on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller HyperX 7.1 Audio on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller HyperX 7.1 Audio on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller PenTablet on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller PenTablet on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller Corsair composite virtual input device on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller Corsair K95 RGB Gaming Keyboard  on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller Corsair K95 RGB Gaming Keyboard  on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller Corsair K95 RGB Gaming Keyboard  on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller HUION HID on Unknown...
+[02:48:24] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[02:48:24] [Client thread/INFO]: JInput Component Registry initialised, found 27 controller(s) 889 component(s)
+[02:48:24] [Client thread/INFO]: LiteLoader begin INIT...
+[02:48:25] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[02:48:25] [Client thread/INFO]: Injecting external mods into class path...
+[02:48:25] [Client thread/INFO]: Successfully injected mod file 'E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mod_worldeditcui_1.10_00_lite_mc1.10.litemod' into classpath
+[02:48:25] [Client thread/INFO]: Injecting external mods into class path...
+[02:48:25] [Client thread/INFO]: Discovering mods on class path...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\ATLauncher.exe...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\jarmods\forge-1.10.2-12.18.1.2049-universal.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\launchwrapper-1.12.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\asm-all-5.0.3.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jline-2.13.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\akka-actor_2.11-2.3.3.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\config-1.2.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-actors-migration_2.11-1.1.0.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-compiler-2.11.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-continuations-library_2.11-1.0.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-library-2.11.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-parser-combinators_2.11-1.0.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-reflect-2.11.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-swing_2.11-1.0.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\scala-xml_2.11-1.0.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\lzma-0.0.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jopt-simple-4.6.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\vecmath-1.5.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\trove4j-3.0.3.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\netty-1.6.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\oshi-core-1.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jna-3.4.0.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\platform-3.4.0.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\icu4j-core-mojang-51.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\codecjorbis-20101023.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\codecwav-20101023.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\libraryjavasound-20101123.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\librarylwjglopenal-20100824.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\soundsystem-20120107.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\netty-all-4.0.23.Final.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\guava-17.0.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-lang3-3.3.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-io-2.4.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-codec-1.9.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jinput-2.0.5.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\jutils-1.0.0.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\gson-2.2.4.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\authlib-1.5.22.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\realms-1.9.3.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-compress-1.8.1.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\httpclient-4.3.3.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\commons-logging-1.1.3.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\httpcore-4.3.2.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\fastutil-7.0.12_mojang.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\log4j-api-2.0-beta9.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\log4j-core-2.0-beta9.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\lwjgl-2.9.4-nightly-20150209.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\lwjgl_util-2.9.4-nightly-20150209.jar...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\bin\minecraft.jar...
+[02:48:25] [Client thread/INFO]: Discovering mods in valid mod files...
+[02:48:25] [Client thread/INFO]: Searching E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mod_worldeditcui_1.10_00_lite_mc1.10.litemod...
+[02:48:25] [Client thread/INFO]: Found 1 potential matches
+[02:48:25] [Client thread/INFO]: Discovering mods in valid mod files...
+[02:48:25] [Client thread/INFO]: Mod class discovery completed
+[02:48:25] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[02:48:25] [Client thread/INFO]: Inhibiting sound handler reload
+[02:48:25] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[02:48:25] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[02:48:25] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[02:48:25] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[02:48:25] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[02:48:25] [Client thread/INFO]: Discovered 1 total mod(s), injected 0 tweak(s)
+[02:48:25] [Client thread/INFO]: Loading mod from com.mumfrey.worldeditcui.LiteModWorldEditCUI
+[02:48:25] [Client thread/INFO]: Baking listener list for ModLoadObserver with 1 listeners
+[02:48:25] [Client thread/INFO]: Successfully added mod WorldEditCUI version 1.10_00
+[02:48:25] [Client thread/INFO]: Adding "E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mod_worldeditcui_1.10_00_lite_mc1.10.litemod" to active resource pack set
+[02:48:25] [Client thread/INFO]: Setting up "mod_worldeditcui_1.10_00_lite_mc1.10.litemod" as mod resource pack with identifier "WorldEditCUI"
+[02:48:25] [Client thread/INFO]: Successfully added "E:\Installed Games Folder\ATLauncher\Instances\DNSTechpack10\mods\mod_worldeditcui_1.10_00_lite_mc1.10.litemod" to active resource pack set
+[02:48:25] [Client thread/INFO]: Initialising mod WorldEditCUI version 1.10_00
+[02:48:25] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
+[02:49:06] [Client thread/INFO]: Calling late init for mod WorldEditCUI
+[02:49:06] [Client thread/INFO]: Baking listener list for ViewportListener with 0 listeners
+[02:49:06] [Client thread/INFO]: Sound handler reload inhibit removed
+[02:49:06] [Client thread/INFO]: Reloading sound handler
+[02:49:07] [Client thread/INFO]: Baking listener list for GameLoopListener with 0 listeners
+[02:49:07] [Client thread/INFO]: Baking listener list for RenderListener with 0 listeners
+[02:49:07] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
+[02:49:07] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[02:49:07] [Client thread/INFO]: Baking listener list for Tickable with 1 listeners
+[02:49:08] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
+[02:49:52] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[02:49:52] [Client thread/INFO]: Baking listener list for ShutdownObserver with 3 listeners
