@@ -2,49 +2,95 @@
 **SpongeForge compatibility will be a top priority for this version of DNS**. Please bare that in mind when requesting mods.
 
 # Current Mods
-**Bold** = Core Mod / Library
-
 *Italic* = Modpack Utility (Change recipes / main menu for example)
 
 <hr>
 
-* **Baubles**
-* **Bookshelf**
-* Calculator
-* ChickenChunks
-* Chisel And Bits
-* **CodeChickenCore**
-* **CodeChickenLib**
-* *Craft Tweaker (Minetweaker)*
+Default Mods
+------------
+
+* Advanced Generators	
+* Baubles	
+* BD Lib		
+* Biomes O' Plenty		
+* Bookshelf			
+* Calculator		
+* Chameleon	
+* ChickenChunks	
+* Chisel	
+* Chisels & Bits	
+* CodeChicken Core
+* CodeChicken Lib
+* Compact Solar Arrays	
+* ComputerCraft
+* Crafting Tweaks
 * *Crash Log Additions*
-* *CustomMainMenu*
-* Dark Utilites
-* Deep Resonance
-* **Elec Core**
-* **Ender Core**
+* *Custom Main Menu*
+* Dark Utilities
+* DeepResonance
+* ElecCore
 * Ender IO
-* Ender Storage
+* EnderCore
+* EnderStorage
+* ExtraUtils2
 * Flux Networks
+* Forestry
+* Forge Mod Loader
+* GenDustry	
 * IndustrialCraft 2
-* Iron Chests
+* Inventory Tweaks
+* Iron Chest
+* JEI Bees
 * Just Enough Items
-* **Malisis Core**
-* Malisis Doors
-* **Mantle**
-* **Mcjty Lib**
-* **MCMultipart**
+* Malisis Switches
+* MalisisCore
+* MalisisDoors
+* Mantle
+* McjtyLib
+* MCMultiPart
 * Mekanism
-* *ModTweaker*
-* RandomThings
-* *ResourceLoader*
-* RF Tools
-* RF Tools Dimensions (Optional)
-* **Sonar Core**
+* MekanismGenerators
+* MekanismTools
+* Minecraft Coder Pack
+* Minecraft Forge
+* *MineTweaker (Actually a custom variant called CraftTweaker)*
+* *Mod Tweaker*
+* Morph-o-Tool
+* Not Enough Items
+* OpenComputers
+* Ore Dictionary Converter
+* Random Things
+* *Resource Loader*
+* RFTools
+* Router Reborn
+* Solar Flux Reborn
+* SonarCore
+* Storage Drawers
+* TESLA
 * Tinkers' Construct
-* **TESLA**
-* WAILA
-* WAILA Harvestability
-* WAWLA
+* Waila
+* Waila Harvestability
+* What Are We Looking At
+
+Optional Mods
+-------------
+
+* Blood Magic
+* Botania
+* LiteLoader (Client Only - Currently has compatibility issues with SpongeForge)
+* Morpheus (Server Only)
+* Minimaps (Client Only)
+	* JourneyMap
+	* MapWriter
+	* VoxelMap
+* Pam's HarvestCraft
+* Psi
+* Refined Storage
+* RFTools Dimensions
+* SpongeForge
+* TechReborn (Requires RebornCore)
+* WorldEdit	
+	* WorldEdit CUI (Requires LiteLoader)
 
 # Requests
 
@@ -57,11 +103,8 @@ To make a request, please use the [GitHub issues](https://github.com/DNSTechpack
 <hr>
 
 * Actually Additions
-* Botania Unofficial
 * EnergySynergy
+* Fluxed Redstone
 * **Integrated Dynamics | Correlated Potentialistics | Refined Storage**
 * Item Scroller
-* Psi
-* Storage Drawers
-* Tech Reborn
 * VeinMiner (Probably limited to trees)

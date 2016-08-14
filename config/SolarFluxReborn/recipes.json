@@ -1,0 +1,107 @@
+[
+    {
+        "result": "SolarFluxReborn:mirror:0@2",
+        "pattern": ["ggg", " i "],
+        "ingredients": ["g", "blockGlass", "i", "ingotIron"]
+    },
+    {
+        "result": "SolarFluxReborn:solarCell1:0@1",
+        "pattern": ["ggg", "lll", "mmm"],
+        "ingredients": ["g", "blockGlass", "l", "gemLapis", "m", "#SolarFluxReborn:mirror:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:solarCell2:0@1",
+        "pattern": ["clc", "lcl", "msm"],
+        "ingredients": ["c", "#minecraft:clay_ball:0@1", "l", "gemLapis", "m", "#SolarFluxReborn:mirror:0@1", "s", "#SolarFluxReborn:solarCell1:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:solarCell3:0@1",
+        "pattern": ["ggg", "lll", "oco"],
+        "ingredients": ["g", "blockGlass", "l", "dustGlowstone", "o", "#minecraft:obsidian:0@1", "c", "#SolarFluxReborn:solarCell2:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:solarCell4:0@1",
+        "pattern": ["bbb", "gdg", "qcq"],
+        "ingredients": ["b", "#minecraft:blaze_rod:0@1", "g", "dustGlowstone", "d", "blockDiamond", "q", "blockQuartz", "c", "#SolarFluxReborn:solarCell3:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:solar0:0@1",
+        "pattern": ["mmm", "prp", "ppp"],
+        "ingredients": ["m", "#SolarFluxReborn:mirror:0@1", "p", "plankWood", "r", "dustRedstone"]
+    },
+    {
+        "result": "SolarFluxReborn:solar1:0@1",
+        "pattern": ["sss", "sps", "sss"],
+        "ingredients": ["s", "#SolarFluxReborn:solar0:0@1", "p", "#minecraft:piston:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:solar2:0@1",
+        "pattern": ["ppp", "scs", "sbs"],
+        "ingredients": ["p", "#SolarFluxReborn:solarCell1:0@1", "s", "#SolarFluxReborn:solar1:0@1", "c", "#minecraft:repeater:0@1", "b", "blockIron"]
+    },
+    {
+        "result": "SolarFluxReborn:solar3:0@1",
+        "pattern": ["ppp", "scs", "sbs"],
+        "ingredients": ["p", "#SolarFluxReborn:solarCell2:0@1", "s", "#SolarFluxReborn:solar2:0@1", "c", "#minecraft:clock:0@1", "b", "blockIron"]
+    },
+    {
+        "result": "SolarFluxReborn:solar4:0@1",
+        "pattern": ["ppp", "scs", "sbs"],
+        "ingredients": ["p", "#SolarFluxReborn:solarCell3:0@1", "s", "#SolarFluxReborn:solar3:0@1", "c", "#minecraft:redstone_lamp:0@1", "b", "blockGold"]
+    },
+    {
+        "result": "SolarFluxReborn:solar5:0@1",
+        "pattern": ["ppp", "scs", "sbs"],
+        "ingredients": ["p", "#SolarFluxReborn:solarCell4:0@1", "s", "#SolarFluxReborn:solar4:0@1", "c", "#minecraft:redstone_lamp:0@1", "b", "blockDiamond"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeBlank:0@1",
+        "pattern": [" c ", "cmc", " c "],
+        "ingredients": ["c", "cobblestone", "m", "#SolarFluxReborn:mirror:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeEfficiency:0@1",
+        "pattern": [" c ", "cuc", " s "],
+        "ingredients": ["c", "#SolarFluxReborn:solarCell1:0@1", "u", "#SolarFluxReborn:upgradeBlank:0@1", "s", "#SolarFluxReborn:solarCell2:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeLowLight:0@1",
+        "pattern": ["ggg", "lul", "ggg"],
+        "ingredients": ["g", "blockGlass", "u", "#SolarFluxReborn:upgradeBlank:0@1", "l", "dustGlowstone"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeTraversal:0@1",
+        "pattern": ["i i", "rur", "i i"],
+        "ingredients": ["i", "ingotIron", "u", "#SolarFluxReborn:upgradeBlank:0@1", "r", "dustRedstone"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeTransferRate:0@1",
+        "pattern": ["rrr", "gug", "rrr"],
+        "ingredients": ["u", "#SolarFluxReborn:upgradeBlank:0@1", "r", "dustRedstone", "g", "ingotGold"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeCapacity:0@1",
+        "pattern": [" r ", "rur", "rcr"],
+        "ingredients": ["u", "#SolarFluxReborn:upgradeBlank:0@1", "r", "dustRedstone", "c", "blockDiamond"]
+    },
+    {
+        "result": "SolarFluxReborn:upgradeFurnace:0@1",
+        "pattern": ["ccc", "cuc", "cfc"],
+        "ingredients": ["u", "#SolarFluxReborn:upgradeBlank:0@1", "r", "dustRedstone", "c", "#minecraft:coal:0@1", "f", "#minecraft:furnace:0@1"]
+    },
+    {
+        "result": "SolarFluxReborn:wire_1:0@6",
+        "pattern": ["ggg", "rrr", "ggg"],
+        "ingredients": ["r", "dustRedstone", "g", "blockGlass"]
+    },
+    {
+        "result": "SolarFluxReborn:wire_2:0@6",
+        "pattern": ["ggg", "rrr", "ggg"],
+        "ingredients": ["r", "dustRedstone", "g", "ingotIron"]
+    },
+    {
+        "result": "SolarFluxReborn:wire_3:0@2",
+        "pattern": ["ddd", "geg", "ddd"],
+        "ingredients": ["d", "blockDiamond", "g", "#minecraft:glowstone:0@1", "e", "#minecraft:ender_eye:0@1"]
+    }
+]
