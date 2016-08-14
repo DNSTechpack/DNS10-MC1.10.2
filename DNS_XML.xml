@@ -24,9 +24,9 @@
     </messages>
         
     <warnings>
-        <warning name="warnSponge"><![CDATA[Sponge is currently in a BETA state. Be careful!]]></warning>
+        <warning name="warnSponge"><![CDATA[Sponge is currently in a BETA state.<br><br><b>When reporting an issue you <u>must</u> state that you are using sponge!</b>]]></warning>
         
-        <warning name="warnTechReborn"><![CDATA[TechReborn changes the recipes of items from other mods.]]></warning>
+        <warning name="warnTechReborn"><![CDATA[TechReborn changes the recipes of items from other mods.<br><br>This mod is very similar to old GregTech and is not for the faint-hearted.]]></warning>
     </warnings>
     
     <libraries>
