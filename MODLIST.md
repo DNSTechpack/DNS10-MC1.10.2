@@ -13,7 +13,8 @@ Default Mods
 * Baubles	
 * BD Lib		
 * Biomes O' Plenty		
-* Bookshelf			
+* Bookshelf	
+* Brandon's Core
 * Calculator		
 * Chameleon	
 * ChickenChunks	
@@ -28,6 +29,7 @@ Default Mods
 * *Custom Main Menu*
 * Dark Utilities
 * DeepResonance
+* Draconic Evolution
 * ElecCore
 * Ender IO
 * EnderCore
