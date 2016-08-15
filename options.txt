@@ -50,7 +50,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:false
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
