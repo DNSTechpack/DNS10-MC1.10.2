@@ -9,7 +9,8 @@
 Default Mods
 ------------
 
-* Advanced Generators	
+* Advanced Generators
+* AppleSkin
 * Baubles	
 * BD Lib		
 * Biomes O' Plenty		
@@ -25,7 +26,6 @@ Default Mods
 * Compact Solar Arrays	
 * ComputerCraft
 * Crafting Tweaks
-* *Crash Log Additions*
 * *Custom Main Menu*
 * Dark Utilities
 * DeepResonance
@@ -35,10 +35,13 @@ Default Mods
 * EnderCore
 * EnderStorage
 * ExtraUtils2
+* Fancy Fluid Storage
+* FloodLights
 * Flux Networks
 * Forestry
 * Forge Mod Loader
-* GenDustry	
+* GenDustry
+* Help Fixer
 * IndustrialCraft 2
 * Inventory Tweaks
 * Iron Chest
@@ -69,6 +72,8 @@ Default Mods
 * SonarCore
 * Storage Drawers
 * TESLA
+* ThutCore
+* Thut's Elevators
 * Tinkers' Construct
 * Waila
 * Waila Harvestability
@@ -81,6 +86,7 @@ Optional Mods
 * Botania
 * LiteLoader (Client Only - Currently has compatibility issues with SpongeForge)
 * Morpheus (Server Only)
+* Mouse Tweaks (Client Only)
 * Minimaps (Client Only)
 	* JourneyMap
 	* MapWriter
@@ -107,6 +113,5 @@ To make a request, please use the [GitHub issues](https://github.com/DNSTechpack
 * Actually Additions
 * EnergySynergy
 * Fluxed Redstone
-* **Integrated Dynamics | Correlated Potentialistics | Refined Storage**
 * Item Scroller
 * VeinMiner (Probably limited to trees)
