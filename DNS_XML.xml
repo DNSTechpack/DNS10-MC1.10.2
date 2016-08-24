@@ -90,7 +90,7 @@
         
         <mod name="Code Chicken Core" version="2.1.8.79" url="packs/DNSTechpack/files/libs1102/CodeChickenCore-1.10.2-2.1.8.79-universal.jar" file="CodeChickenCore-1.10.2-2.1.8.79-universal.jar" md5="fd4766eb049c75d4f48d6a2f872b8813" download="server" type="mods" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
         
-        <mod name="CodeChickenLib" version="2.2.3.58" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.2.3.58-universal.jar" file="CodeChickenLib-1.10.2-2.2.3.58-universal.jar" md5="98fff7b44fe527c5014991a95d446bfb" download="server" type="mods" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
+        <mod name="CodeChickenLib" version="1.10.2-2.2.3.60" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.2.3.60-universal.jar" file="CodeChickenLib-1.10.2-2.2.3.60-universal.jar" md5="e4316b740ec9374106ca7e7f6d59350b" download="server" type="mods" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
         
         <mod name="ElecCore | Rendering Library" version="1.5.311" url="packs/DNSTechpack/files/libs1102/ElecCore-1.9.4-1.5.311.jar" file="ElecCore-1.9.4-1.5.311.jar" md5="a33ee36278d4e1599b04abad9e22ac64" download="server" type="mods" website="http://www.curseforge.com/projects/227391/" authors="Elec332" colour="Green2" description="Shared code for Forge mods"/>
         
@@ -148,7 +148,7 @@
         
         <mod name="Ender IO" version="1.10.2-3.0.1.96_beta" url="packs/DNSTechpack/files/libs1102/EnderIO-1.10.2-3.0.1.96_beta.jar" file="EnderIO-1.10.2-3.0.1.96_beta.jar" md5="6db7d2cc33f84087e26a4aaf110a26f7" download="server" type="mods" website="http://enderio.com" authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,CyanideX" description="Compact conduits, painted things and all sorts of stuff and bling."/>
         
-        <mod name="EnderStorage" version="2.1.3.72" url="packs/DNSTechpack/files/libs1102/EnderStorage-1.10.2-2.1.3.72-universal.jar" file="EnderStorage-1.10.2-2.1.3.72-universal.jar" md5="e59ea1b080d3d91b2edafd27e14014b3" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones, covers1624" description="Stores your stuff in the END! Credits: Ecu - original idea, design, chest and pouch texture Rosethorns - tank model Soaryn - tank texture Supporters: Blkdragon112"/>
+        <mod name="EnderStorage" version="2.1.3.73" url="packs/DNSTechpack/files/libs1102/EnderStorage-1.10.2-2.1.3.73-universal.jar" file="EnderStorage-1.10.2-2.1.3.73-universal.jar" md5="63771d16d8a2ab1e04df42405276a6e1" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones, covers1624" description="Stores your stuff in the END! Credits: Ecu - original idea, design, chest and pouch texture Rosethorns - tank model Soaryn - tank texture Supporters: Blkdragon112"/>
         
         <mod name="Extra Utilities 2" version="1.0.1" url="packs/DNSTechpack/files/libs1102/extrautils2-1.10.2-alpha-1.0.1.jar" file="extrautils2-1.10.2-alpha-1.0.1.jar" md5="303ffb78f62504c1a4bc55492093160f" download="server" type="mods" website="http://www.curseforge.com/projects/225561/" authors="RWTema" description="A bunch of useful things."/>
         
@@ -192,7 +192,7 @@
         
         <mod name="Morph-o-Tool" version="1.0-6" url="packs/DNSTechpack/files/libs1102/Morph-o-Tool-1.0-6.jar" file="Morph-o-Tool-1.0-6.jar" md5="b52a85102a6a9bdc2f111e0ec915638f" download="server" type="mods" website="http://www.vazkii.us" authors="Vazkii" description="The wrench to end all wrenches."/>
         
-        <mod name="Not Enough Items" version="2.1.1.145" url="packs/DNSTechpack/files/libs1102/NotEnoughItems-1.10.2-2.1.1.145-universal.jar" file="NotEnoughItems-1.10.2-2.1.1.145-universal.jar" md5="58618ff914941584305ed43b151e9fa5" download="server" type="mods" website="http://chickenbones.net/" description="Browse all items and blocks within the game, see crating recipes and access cheat and utility menus."/>
+        <mod name="Not Enough Items" version="1.10.2-2.1.1.146" url="packs/DNSTechpack/files/libs1102/NotEnoughItems-1.10.2-2.1.1.146-universal.jar" file="NotEnoughItems-1.10.2-2.1.1.146-universal.jar" md5="a444400aebb661c5a89338d405aa9747" download="server" type="mods" website="http://chickenbones.net/" description="Browse all items and blocks within the game, see crating recipes and access cheat and utility menus."/>
         
         <mod name="OpenComputers" version="1.6.0.3-rc.1" url="packs/DNSTechpack/files/libs1102/OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar" file="OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar" md5="714a970c9ecb6513b530cc8c33298a72" download="server" type="mods" website="http://oc.cil.li/" authors="Florian 'Sangar' Nuecke,Johannes 'Lord Joda' Lohrer,Everyone who contributed to the mod on Github - thank you!" description="This mod adds modular computers and robots that can be programmed in Lua."/>
         
