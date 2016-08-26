@@ -1,15 +1,12 @@
 # Changelog (DD/MM/YY)
 
-14/08/16
---------
+Beta Changes
+------------
 
-* Updated all mods to current (recommended / stable) versions
-* Added many more optional mods
-* Can no longer install client mods serverside (minimaps)
-* Ensuring SpongeForge compatibility
-* Updated configs
+[Latest updates for the beta can be found here!](https://github.com/DNSTechpack/DNS10-MC1.10.2/commits/master)
 
-09/08/16
---------
 
-* Initial setup
+Release Changes
+---------------
+
+Not yet released. Soon™.
