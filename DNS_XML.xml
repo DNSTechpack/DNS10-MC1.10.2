@@ -110,7 +110,7 @@
         
         <mod name="ThutCore" version="1.9.4-3.2.3" url="packs/DNSTechpack/files/libs1102/thutcore-1.9.4-3.2.3.jar" file="thutcore-1.9.4-3.2.3.jar" md5="38184761c35ca1758bd4c76b1adf704b" download="server" type="mods" website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=ThutCore+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" colour="Green2" description="API used by Thut's Mods"/>
         
-        <mod name="Zero CORE" version="1.10.2-0.0.8.0" url="packs/DNSTechpack/files/libs1102/zerocore-1.10.2-0.0.8.0.jar" file="zerocore-1.10.2-0.0.8.0.jar" md5="0933cdf7210ef0186a19631f75438fc2" download="server" type="mods" website="http://zerono.it/" authors="ZeroNoRyouki" colour="Green2" description="Utility mod and multiblock API" />
+        <mod name="Zero CORE" version="1.10.2-0.0.8.0" url="packs/DNSTechpack/files/libs1102/zerocore-1.10.2-0.0.8.0.jar" file="zerocore-1.10.2-0.0.8.0.jar" md5="0933cdf7210ef0186a19631f75438fc2" download="server" type="mods" website="http://zerono.it/" authors="ZeroNoRyouki" colour="Green2" description="Utility mod and multiblock API"/>
         
         
         <!-- Default (Non-optional) Mods -->
@@ -162,7 +162,7 @@
         
         <mod name="Flood Lights" version="1.2.7-145" url="packs/DNSTechpack/files/libs1102/FloodLights-1.9.4-1.2.7-145.jar" file="FloodLights-1.9.4-1.2.7-145.jar" md5="1757b344c2362abf5d5756befd2abd0a" download="server" type="mods" website="http://www.curseforge.com/projects/224728/" authors="Keridos" description="Adds flood lights to Minecraft"/>
         
-        <mod name="Flux Networks" version="1.9.4-1.0.5" url="packs/DNSTechpack/files/libs1102/FluxNetworks-1.9.4-1.0.5.jar" file="FluxNetworks-1.9.4-1.0.5.jar" md5="737f0620aeeb286fcbb77b3e1d2bd428" download="server" type="mods" website="http://www.curseforge.com/projects/248020/" authors="Ollie Lansdell" description="Create Wireless Energy Networks"/>
+        <mod name="Flux Networks" version="1.9.4-1.0.6" url="packs/DNSTechpack/files/libs1102/FluxNetworks-1.9.4-1.0.6.jar" file="FluxNetworks-1.9.4-1.0.6.jar" md5="d1bbdae9b56364854b23e788a554abd4" download="server" type="mods" website="http://www.curseforge.com/projects/248020/" authors="Ollie Lansdell" description="Create Wireless Energy Networks"/>
         
         <mod name="Forestry" version="5.2.9.241" url="packs/DNSTechpack/files/libs1102/forestry_1.10.2-5.2.9.241.jar" file="forestry_1.10.2-5.2.9.241.jar" md5="461cdb48e436abe2b602f1f11b157212" download="server" type="mods" website="http://forestry.sengir.net/" authors="SirSengir,mezz" description="Trees, bees and more."/>
         
@@ -216,6 +216,8 @@
         
         <mod name="Storage Drawers" version="1.10.2-3.2.6" url="packs/DNSTechpack/files/libs1102/StorageDrawers-1.10.2-3.2.6.jar" file="StorageDrawers-1.10.2-3.2.6.jar" md5="f5f4e7325c1dec8323102424c2255c43" download="server" type="mods" website="http://www.jaquadro.com/" authors="jaquadro" description="Multi-drawer storage blocks for quick storage and retrieval."/>
         
+        <mod name="Substratum" version="1.8.0.0" url="packs/DNSTechpack/files/libs1102/Substratum-1.10.2-1.8.0.0.jar" file="Substratum-1.10.2-1.8.0.0.jar" md5="8ed3205220d5697455cf3e5777ba6a44" download="server" type="mods" website="https://github.com/EXTER7/Substratum" authors="EXTER" description="Base resources and crafting materials." />
+        
         <mod name="Tesla Coils" version="0.2.1.0" url="packs/DNSTechpack/files/libs1102/teslacoils-0.2.1.0.jar" file="teslacoils-0.2.1.0.jar" md5="964cc928ba11b4a7b186eb17e1676e29" download="server" type="mods" website="http://minecraft.curseforge.com/projects/tesla-coils" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tesla-coils?gameCategorySlug=mc-mods&amp;projectID=247619&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=skidsirongenesisdev%40gmail.com&amp;bn=PP-DonationsBF:btn_d" authors="GunnerWolf" description="Tesla Coils is a simple mod for minecraft that adds Immersive Engineering inspired power transfer for Tesla power machines."/>
         
         <mod name="Thut's Elevators" version="3.0.9" url="packs/DNSTechpack/files/libs1102/thuttech-3.0.9.jar" file="thuttech-3.0.9.jar" md5="3fe0ba664744002b1bf17867fa095e96" download="server" type="mods" website="http://www.curseforge.com/projects/224375/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=Thut%27s+Elevators+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" description="Adds elevators to minecraft"/>
@@ -249,13 +251,13 @@
         
         <mod name="------- Technology -------" version="DNS" colour="Red" url="packs/DNSTechpack/files/extra/dns.zip" file="dns.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server" recommended="no" type="extract" extractto="root" optional="yes" website="http://www.dnstechpack.com/" authors="DNS Dev Team" description="separater"/>
         
-        <mod name="RebornCore" version="2.6.2.18" url="packs/DNSTechpack/files/libs1102/RebornCore-1.10.2-2.6.2.27-universal.jar" file="RebornCore-1.10.2-2.6.2.27-universal.jar" md5="b56d69a2055fcbc6c5832dd6e082230c" download="server" type="mods" optional="yes" website="https://github.com/TechReborn/RebornCore" authors="modmuss50,Gigabit101" colour="Red2" recommended="no" description="RebornCore, A core set of classes."/>
-        
         <mod name="Refined Storage" version="0.9.3" url="packs/DNSTechpack/files/libs1102/refinedstorage-0.9.3.jar" file="refinedstorage-0.9.3.jar" md5="d20ed24692e7b290f27d2f5677f03805" download="server" type="mods" website="http://www.curseforge.com/projects/243076/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/refined-storage?gameCategorySlug=mc-mods&amp;projectID=243076&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=raoulvdberge%40gmail.com&amp;bn=PP-DonationsBF:btn_dona" authors="Refined Storage contributors" optional="yes" colour="Red2" description="A Minecraft mod all about storage."/>
         
         <mod name="RFTools Dimensions" version="1.10-4.30beta47" url="packs/DNSTechpack/files/libs1102/rftoolsdim-1.10-4.30beta47.jar" file="rftoolsdim-1.10-4.30beta47.jar" md5="85b04ba70ea82d2806d39187d022edfa" download="server" type="mods" optional="yes" website="http://www.curseforge.com/projects/240950/" authors="McJty" colour="Red2" description="RFTools Dimensions Addon"/>
         
         <mod name="TechReborn" version="1.4.0.45" url="packs/DNSTechpack/files/libs1102/TechReborn-1.10.2-1.4.0.45-universal.jar" file="TechReborn-1.10.2-1.4.0.45-universal.jar" md5="abf0f86df7ced1659dc56c4f70b419f6" download="server" type="mods" website="https://github.com/TechReborn/TechReborn" authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector" optional="yes" warning="warnTechReborn" depends="RebornCore" linked="RebornCore" recommended="no" colour="Red2" description="TechReborn, The Gregtech revival you dream about on a cool mid summer's eve."/>
+        
+        <mod name="RebornCore" version="2.6.2.18" url="packs/DNSTechpack/files/libs1102/RebornCore-1.10.2-2.6.2.27-universal.jar" file="RebornCore-1.10.2-2.6.2.27-universal.jar" md5="b56d69a2055fcbc6c5832dd6e082230c" download="server" type="mods" optional="yes" website="https://github.com/TechReborn/RebornCore" authors="modmuss50,Gigabit101" colour="Red2" recommended="no" description="RebornCore, A core set of classes."/>
         
         <mod name="------- Agriculture -------" version="DNS" colour="Green" url="packs/DNSTechpack/files/extra/dns.zip" file="dns.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server" recommended="no" type="extract" extractto="root" optional="yes" website="http://www.dnstechpack.com/" authors="DNS Dev Team" description="separater"/>
         
@@ -270,6 +272,8 @@
         <mod name="Mouse Tweaks" version="2.6.4" url="packs/DNSTechpack/files/libs1102/MouseTweaks-2.6.4-mc1.10.2.jar" file="MouseTweaks-2.6.4-mc1.10.2.jar" md5="6c23b8f7a876336dbab417721ee44137" download="server" type="mods" website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g" authors="YaLTeR" optional="yes" server="no" colour="Gold2" description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."/>
         
         <mod name="SpongeForge" version="1.10.2-2073-5.0.0-BETA-1686" url="packs/DNSTechpack/files/libs1102/spongeforge-1.10.2-2073-5.0.0-BETA-1686.jar" file="spongeforge-1.10.2-2073-5.0.0-BETA-1686.jar" md5="4ecaf9afc875d35657e8e68a27103575" download="server" recommended="no" type="mods" website="https://www.spongepowered.org" warning="warnSponge" authors="SpongePowered" optional="yes" colour="Gold2" description="The Sponge API Implementation"/>
+        
+        <mod name="Surge" version="1.10.2-1.0.0.50" url="packs/DNSTechpack/files/libs1102/Surge-1.10.2-1.0.0.50.jar" file="Surge-1.10.2-1.0.0.50.jar" md5="17417bd727569435ef2017903d8f0f41" download="server" type="mods" website="http://www.curseforge.com/projects/250290/" optional="yes" recommended="yes" authors="Darkhax,lclc98" colour="Gold2" description="A tweak mod that improves Minecraft performance and stability." />
         
         <mod name="WorldEdit" version="6.1.3-SNAPSHOT;d70f716" url="packs/DNSTechpack/files/libs1102/worldedit-forge-mc1.9.4-6.1.3-dist.jar" file="worldedit-forge-mc1.9.4-6.1.3-dist.jar" md5="67c2027e2c3f75473d5641eaf4ac4d60" download="server" type="mods" optional="yes" website="http://wiki.sk89q.com/wiki/WorldEdit" authors="sk89q,wizjany,TomyLobo,kenzierocks" colour="Gold2" description="WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer."/>
         

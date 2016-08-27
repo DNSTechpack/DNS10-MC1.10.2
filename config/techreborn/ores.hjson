@@ -173,7 +173,7 @@
   ]
   rubberTreeConfig:
   {
-    shouldSpawn: true
+    shouldSpawn: false
     chance: 75
     clusterSize: 7
     sapRarity: 10

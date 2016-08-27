@@ -1373,14 +1373,14 @@
         },
         {
             "name": "Flux Networks",
-            "version": "1.9.4-1.0.5",
-            "url": "packs/DNSTechpack/files/libs1102/FluxNetworks-1.9.4-1.0.5.jar",
-            "file": "FluxNetworks-1.9.4-1.0.5.jar",
+            "version": "1.9.4-1.0.6",
+            "url": "packs/DNSTechpack/files/libs1102/FluxNetworks-1.9.4-1.0.6.jar",
+            "file": "FluxNetworks-1.9.4-1.0.6.jar",
             "download": "server",
-            "md5": "737f0620aeeb286fcbb77b3e1d2bd428",
-            "filesize": 268104,
+            "md5": "d1bbdae9b56364854b23e788a554abd4",
+            "filesize": 263859,
             "curse_id": 248020,
-            "curse_file_id": 2325181,
+            "curse_file_id": 2326449,
             "force": false,
             "website": "http://www.curseforge.com/projects/248020/",
             "authors": [
@@ -2069,6 +2069,31 @@
             "description": "Multi-drawer storage blocks for quick storage and retrieval."
         },
         {
+            "name": "Substratum",
+            "version": "1.8.0.0",
+            "url": "packs/DNSTechpack/files/libs1102/Substratum-1.10.2-1.8.0.0.jar",
+            "file": "Substratum-1.10.2-1.8.0.0.jar",
+            "download": "server",
+            "md5": "8ed3205220d5697455cf3e5777ba6a44",
+            "filesize": 600071,
+            "curse_id": 241113,
+            "curse_file_id": 2325917,
+            "force": false,
+            "website": "https://github.com/EXTER7/Substratum",
+            "authors": [
+                "EXTER"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Base resources and crafting materials."
+        },
+        {
             "name": "Tesla Coils",
             "version": "0.2.1.0",
             "url": "packs/DNSTechpack/files/libs1102/teslacoils-0.2.1.0.jar",
@@ -2495,33 +2520,6 @@
             "description": "separater"
         },
         {
-            "name": "RebornCore",
-            "version": "2.6.2.18",
-            "url": "packs/DNSTechpack/files/libs1102/RebornCore-1.10.2-2.6.2.27-universal.jar",
-            "file": "RebornCore-1.10.2-2.6.2.27-universal.jar",
-            "download": "server",
-            "md5": "b56d69a2055fcbc6c5832dd6e082230c",
-            "filesize": 515835,
-            "curse_id": 237903,
-            "curse_file_id": 2323518,
-            "force": false,
-            "website": "https://github.com/TechReborn/RebornCore",
-            "authors": [
-                "modmuss50",
-                "Gigabit101"
-            ],
-            "colour": "Red2",
-            "type": "mods",
-            "client": true,
-            "optional": true,
-            "server": true,
-            "selected": false,
-            "recommended": false,
-            "hidden": false,
-            "library": false,
-            "description": "RebornCore, A core set of classes."
-        },
-        {
             "name": "Refined Storage",
             "version": "0.9.3",
             "url": "packs/DNSTechpack/files/libs1102/refinedstorage-0.9.3.jar",
@@ -2529,6 +2527,8 @@
             "download": "server",
             "md5": "d20ed24692e7b290f27d2f5677f03805",
             "filesize": 722969,
+            "curse_id": 243076,
+            "curse_file_id": 2326409,
             "force": false,
             "website": "http://www.curseforge.com/projects/243076/",
             "donation": "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/refined-storage?gameCategorySlug=mc-mods&projectID=243076&cn=Add+special+instructions+to+the+addon+author()&business=raoulvdberge%40gmail.com&bn=PP-DonationsBF:btn_dona",
@@ -2606,6 +2606,33 @@
                 "RebornCore"
             ],
             "description": "TechReborn, The Gregtech revival you dream about on a cool mid summer's eve."
+        },
+        {
+            "name": "RebornCore",
+            "version": "2.6.2.18",
+            "url": "packs/DNSTechpack/files/libs1102/RebornCore-1.10.2-2.6.2.27-universal.jar",
+            "file": "RebornCore-1.10.2-2.6.2.27-universal.jar",
+            "download": "server",
+            "md5": "b56d69a2055fcbc6c5832dd6e082230c",
+            "filesize": 515835,
+            "curse_id": 237903,
+            "curse_file_id": 2323518,
+            "force": false,
+            "website": "https://github.com/TechReborn/RebornCore",
+            "authors": [
+                "modmuss50",
+                "Gigabit101"
+            ],
+            "colour": "Red2",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": true,
+            "selected": false,
+            "recommended": false,
+            "hidden": false,
+            "library": false,
+            "description": "RebornCore, A core set of classes."
         },
         {
             "name": "------- Agriculture -------",
@@ -2787,6 +2814,33 @@
             "hidden": false,
             "library": false,
             "description": "The Sponge API Implementation"
+        },
+        {
+            "name": "Surge",
+            "version": "1.10.2-1.0.0.50",
+            "url": "packs/DNSTechpack/files/libs1102/Surge-1.10.2-1.0.0.50.jar",
+            "file": "Surge-1.10.2-1.0.0.50.jar",
+            "download": "server",
+            "md5": "17417bd727569435ef2017903d8f0f41",
+            "filesize": 107190,
+            "curse_id": 250290,
+            "curse_file_id": 2326450,
+            "force": false,
+            "website": "http://www.curseforge.com/projects/250290/",
+            "authors": [
+                "Darkhax",
+                "lclc98"
+            ],
+            "colour": "Gold2",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "A tweak mod that improves Minecraft performance and stability."
         },
         {
             "name": "WorldEdit",
