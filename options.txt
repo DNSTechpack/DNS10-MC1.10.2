@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -39,7 +39,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:true
+showInventoryAchievementHint:false
 mipmapLevels:4
 forceUnicodeFont:false
 reducedDebugInfo:false
@@ -86,6 +86,8 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_psimisc.keybind:46
+key_quark.keybind.toggleAutojump:48
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:38
 key_enderio.keybind.nightvision:25
@@ -100,7 +102,18 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 key_enderio.keybind.fovreset:0
+key_enderutilities.key.togglemode:34
+key_veinminer.key.enable:41
+key_wecui.keys.toggle:0
+key_wecui.keys.clear:0
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.showRecipe:19
+key_key.jei.showUses:22
+key_key.jei.recipeBack:14
 key_Baubles Inventory:48
+key_bbw.key.mode:50
+key_bbw.key.fluidmode:33
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
@@ -131,16 +144,41 @@ key_mod.chiselsandbits.other.pickbit:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_key.jei.toggleOverlay:24:CONTROL
-key_key.jei.focusSearch:33:CONTROL
-key_key.jei.showRecipe:19
-key_key.jei.showUses:22
-key_key.jei.recipeBack:14
+key_key.craftingtweaks.rotate:19
+key_key.craftingtweaks.balance:48
+key_key.craftingtweaks.clear:46
+key_key.craftingtweaks.toggleButtons:0
+key_key.craftingtweaks.compressOne:37:CONTROL
+key_key.craftingtweaks.compressStack:37
+key_key.craftingtweaks.compressAll:37:SHIFT
+key_key.craftingtweaks.decompressOne:0
+key_key.craftingtweaks.decompressStack:0
+key_key.craftingtweaks.decompressAll:0
+key_key.materialCosts:56
+key_key.clipboardPaste:210
+key_key.placeItem:25
+key_key.toolConfig:46
+key_key.toolProfileChange:43
+key_invtweaks.key.sort:19
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
-soundCategory_master:0.7549669
-soundCategory_music:0.5070422
+key_key.porterNextDestination:27
+key_key.porterPrevDestination:26
+key_keys.techreborn.config:25
+key_WorldEdit Reference:38
+key_key.journeymap.map_toggle:36
+key_key.journeymap.zoom_in:13
+key_key.journeymap.zoom_out:12
+key_key.journeymap.minimap_type:27
+key_key.journeymap.minimap_type:27
+key_key.journeymap.minimap_preset:43
+key_key.journeymap.create_waypoint:48
+key_BloodMagic.keybind.open_holding:35
+key_BloodMagic.keybind.cycle_holding_pos:13:SHIFT
+key_BloodMagic.keybind.cycle_holding_neg:12:SHIFT
+soundCategory_master:0.25165564
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
