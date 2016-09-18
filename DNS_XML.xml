@@ -307,8 +307,6 @@
         
         <mod name="Magneticraft" version="1.0.2" url="packs/DNSTechpack/files/libs1102/magneticraft-1.0.2-release.jar" file="magneticraft-1.0.2-release.jar" md5="91e14e459a23d9bdd527261e7ed4d772" download="server" type="mods" optional="yes" website="http://minecraft.curseforge.com/mc-mods/224808-magneticraft" authors="Cout970,Minecreatr,MattDahEpic,MechWarrior99,Cypher121" colour="White2" description="Magneticraft: Energy, Industries and Multiblocks!"/>
         
-        <mod name="Matter Overdrive" version="0.4.1" url="packs/DNSTechpack/files/libs1102/MatterOverdrive-1.7.10-0.4.2.jar" file="MatterOverdrive-1.7.10-0.4.2.jar" md5="eb0331605620c647e605c59a72b5ba5d" download="server" type="mods" website="http://simeonradivoev.com/Mods/MatterOverdrive/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/matter-overdrive?gameCategorySlug=mc-mods&amp;projectID=229694&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=simeonradivoev%40gmail.com&amp;bn=PP-DonationsBF:btn_d" authors="Simeon Radivoev" optional="yes" recommended="no" colour="White2" description="A mod that dwells within matter and energy." />
-        
         <mod name="Rarmor" version="1.10.2-r2" url="packs/DNSTechpack/files/libs1102/Rarmor-1.10.2-r2.jar" file="Rarmor-1.10.2-r2.jar" md5="1c741f1675952ce5b6804eacbfcf676c" download="server" type="mods" website="http://github.com/Ellpeck/Rarmor" optional="yes" recommended="no" authors="Ellpeck,previously canitzp" colour="White2" description="A mod about an RF-powered armor that can be upgraded and modified!"/>
         
     </mods>

@@ -3242,33 +3242,6 @@
             "description": "Magneticraft: Energy, Industries and Multiblocks!"
         },
         {
-            "name": "Matter Overdrive",
-            "version": "0.4.1",
-            "url": "packs/DNSTechpack/files/libs1102/MatterOverdrive-1.7.10-0.4.2.jar",
-            "file": "MatterOverdrive-1.7.10-0.4.2.jar",
-            "download": "server",
-            "md5": "eb0331605620c647e605c59a72b5ba5d",
-            "filesize": 15944244,
-            "curse_id": 229694,
-            "curse_file_id": 2330925,
-            "force": false,
-            "website": "http://simeonradivoev.com/Mods/MatterOverdrive/",
-            "donation": "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/matter-overdrive?gameCategorySlug=mc-mods&projectID=229694&cn=Add+special+instructions+to+the+addon+author()&business=simeonradivoev%40gmail.com&bn=PP-DonationsBF:btn_d",
-            "authors": [
-                "Simeon Radivoev"
-            ],
-            "colour": "White2",
-            "type": "mods",
-            "client": true,
-            "optional": true,
-            "server": true,
-            "selected": false,
-            "recommended": false,
-            "hidden": false,
-            "library": false,
-            "description": "A mod that dwells within matter and energy."
-        },
-        {
             "name": "Rarmor",
             "version": "1.10.2-r2",
             "url": "packs/DNSTechpack/files/libs1102/Rarmor-1.10.2-r2.jar",
