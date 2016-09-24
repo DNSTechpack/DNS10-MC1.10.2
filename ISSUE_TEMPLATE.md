@@ -18,7 +18,7 @@
 -----
 
 <!--
-* If you are reporting a bug, please attatch any relevant logs below.
+* If you are reporting a bug, please attach any relevant logs below.
 * Please use pastebin, or link to a direct download for the log file.
 -->
 
