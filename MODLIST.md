@@ -56,7 +56,10 @@ Default Mods
 * Iron Chest
 * JEI Bees
 * Just Enough Items
+<<<<<<< HEAD
 * Just Enough Resources
+=======
+>>>>>>> origin/master
 * Malisis Core
 * Malisis Doors
 * Malisis Switches
