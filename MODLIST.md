@@ -10,21 +10,25 @@ Default Mods
 ------------
 
 * Advanced Generators
+* Akashic Tome
 * AppleSkin
+* AutoRegLib
 * Baubles	
-* BD Lib		
-* Biomes O' Plenty		
+* BD Lib
+* Better Builder's Wands
+* Biomes O' Plenty
 * Bookshelf	
 * Brandon's Core
 * Calculator		
-* Chameleon	
+* Chameleon
 * ChickenChunks	
-* Chisel	
-* Chisels & Bits	
+* Chisel
+* Chisels & Bits
 * CodeChicken Core
 * CodeChicken Lib
 * Compact Solar Arrays	
 * ComputerCraft
+* Controlling
 * Crafting Tweaks
 * *Custom Main Menu*
 * Dark Utilities
@@ -35,56 +39,68 @@ Default Mods
 * EnderCore
 * EnderStorage
 * ExtraUtils2
+* Extreme Reactors
 * Fancy Fluid Storage
+* Fast Leaf Decay
 * FloodLights
 * Flux Networks
 * Forestry
-* Forge Mod Loader
+* Forge
 * GenDustry
+* Graves
+* Guide-API
 * Help Fixer
+* Immersive Engineering
 * IndustrialCraft 2
 * Inventory Tweaks
 * Iron Chest
 * JEI Bees
 * Just Enough Items
+* Just Enough Resources
+* Malisis Core
+* Malisis Doors
 * Malisis Switches
-* MalisisCore
-* MalisisDoors
 * Mantle
 * McjtyLib
 * MCMultiPart
 * Mekanism
-* MekanismGenerators
-* MekanismTools
-* Minecraft Coder Pack
-* Minecraft Forge
 * *MineTweaker (Actually a custom variant called CraftTweaker)*
 * *Mod Tweaker*
 * Morph-o-Tool
 * Not Enough Items
 * OpenComputers
 * Ore Dictionary Converter
+* Quark
 * Random Things
 * *Resource Loader*
 * RFTools
+* RFTools Control
 * Router Reborn
 * Solar Flux Reborn
 * SonarCore
 * Storage Drawers
+* Substratum
 * TESLA
+* TESLA Arsenal
+* TESLA Coils
+* TESLA Essentials
+* The Agricultural Revolution
 * ThutCore
 * Thut's Elevators
 * Tinkers' Construct
 * Waila
 * Waila Harvestability
 * What Are We Looking At
+* Zero Core
 
 Optional Mods
 -------------
 
 * Blood Magic
 * Botania
+* Chance Cubes
 * LiteLoader (Client Only - Currently has compatibility issues with SpongeForge)
+* Magneticraft
 * Morpheus (Server Only)
 * Mouse Tweaks (Client Only)
 * Minimaps (Client Only)
@@ -93,9 +109,11 @@ Optional Mods
 	* VoxelMap
 * Pam's HarvestCraft
 * Psi
+* Rarmor
 * Refined Storage
 * RFTools Dimensions
 * SpongeForge
+* Surge
 * TechReborn (Requires RebornCore)
 * WorldEdit	
 	* WorldEdit CUI (Requires LiteLoader)
