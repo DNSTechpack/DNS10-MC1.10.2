@@ -27,7 +27,7 @@ Default Mods
 * CodeChicken Core
 * CodeChicken Lib
 * Compact Solar Arrays	
-* ComputerCraft
+* ComputerCraft (Removed temporarily as we cannot distribute the beta versions)
 * Controlling
 * Crafting Tweaks
 * *Custom Main Menu*
@@ -88,6 +88,7 @@ Default Mods
 * ThutCore
 * Thut's Elevators
 * Tinkers' Construct
+* Veinminer (Trees only)
 * Waila
 * Waila Harvestability
 * What Are We Looking At
@@ -99,24 +100,24 @@ Optional Mods
 * Blood Magic
 * Botania
 * Chance Cubes
-* LiteLoader (Client Only - Currently has compatibility issues with SpongeForge)
+* LiteLoader (Removed Temporarily due to mod compatibility issues and general crashes)
 * Magneticraft
 * Morpheus (Server Only)
 * Mouse Tweaks (Client Only)
 * Minimaps (Client Only)
 	* JourneyMap
 	* MapWriter
-	* VoxelMap
+	* VoxelMap (Removed temporarily - Requires LiteLoader)
 * Pam's HarvestCraft
 * Psi
 * Rarmor
 * Refined Storage
 * RFTools Dimensions
-* SpongeForge
+* SpongeForge (Removed temporarily due to crashes and compatibility issues)
 * Surge
 * TechReborn (Requires RebornCore)
 * WorldEdit	
-	* WorldEdit CUI (Requires LiteLoader)
+	* WorldEdit CUI (Removed temporarily - Requires LiteLoader)
 
 # Requests
 
@@ -132,4 +133,3 @@ To make a request, please use the [GitHub issues](https://github.com/DNSTechpack
 * EnergySynergy
 * Fluxed Redstone
 * Item Scroller
-* VeinMiner (Probably limited to trees)
