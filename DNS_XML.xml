@@ -75,7 +75,7 @@
         
         <mod name="Minecraft Forge" version="1.10.2-12.18.1.2095" url="packs/DNSTechpack/files/libs1102/forge-1.10.2-12.18.1.2095-universal.jar" file="forge-1.10.2-12.18.1.2095-universal.jar" md5="5449a7f9967e82821ca8cec191901f1c" download="server" type="forge" colour="Green" website="http://minecraftforge.net" description="Core modding API used for the majority of mods."/>
         
-        <mod name="DNS Menu Resources" version="1.0.0" url="packs/DNSTechpack/files/extra/menuResources.zip" file="menuResources.zip" md5="6317d18e18448ff939e934c7e6538988" download="server" server="no" type="extract" extractto="root" colour="Green" hidden="yes" website="http://dnstechpack.com" description="DNS Techpack Resources"/>
+        <mod name="DNS Menu Resources" version="10.0.0.0" url="packs/DNSTechpack/files/extra/dns10MenuResources.zip" file="dns10MenuResources.zip" md5="a4760622a1ee0dd84e636bb609f6a7f3" download="server" server="no" type="extract" extractto="root" colour="Green" hidden="yes" website="http://dnstechpack.com" description="DNS Techpack Resources"/>
         
         <mod name="DNS Loading Screen" version="1.10.2" url="packs/DNSTechpack/files/libs1102/DNSLoadScreen1102.zip" file="DNSLoadScreen1102.zip" md5="581981cb10e34b2557ec0081f00d2acc" download="server" server="no" colour="Green" website="http://www.dnstechpack.com" hidden="yes" type="resourcepack" authors="DNS Dev Team" description="Small resource pack for DNS"/>
         
