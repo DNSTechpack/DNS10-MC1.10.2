@@ -96,7 +96,7 @@
         
         <mod name="CodeChickenLib" version="1.10.2-2.3.1.88" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.3.1.88-universal.jar" file="CodeChickenLib-1.10.2-2.3.1.88-universal.jar" md5="d58d879b531212335ffca1196033425e" download="server" type="dependency" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
         
-        <mod name="ElecCore | Rendering Library" version="1.6.324" url="packs/DNSTechpack/files/libs1102/ElecCore-1.10.2-1.6.324.jar" file="ElecCore-1.10.2-1.6.324.jar" md5="9719689453f2775035ccced01ecd3a34" download="server" type="mods" website="http://www.curseforge.com/projects/227391/" authors="Elec332" colour="Green2" description="Shared code for Forge mods"/>
+        <mod name="ElecCore | Rendering Library" version="1.5.311" url="packs/DNSTechpack/files/libs1102/ElecCore-1.9.4-1.5.311.jar" file="ElecCore-1.9.4-1.5.311.jar" md5="a33ee36278d4e1599b04abad9e22ac64" download="server" type="mods" website="http://www.curseforge.com/projects/227391/" authors="Elec332" colour="Green2" description="Shared code for Forge mods"/>
         
         <mod name="EnderCore" version="1.10.2-0.4.1.56-beta" url="packs/DNSTechpack/files/libs1102/EnderCore-1.10.2-0.4.1.56-beta.jar" file="EnderCore-1.10.2-0.4.1.56-beta.jar" md5="7ef489c9f5c88fdf18fa604cbc59ed15" download="server" type="mods" website="http://enderio.com" authors="tterrag,CrazyPants" colour="Green2" description="Library mod used by EnderIO, EnderZoo, and others"/>
         
@@ -112,7 +112,7 @@
         
         <mod name="TESLA" version="1.10.2-1.2.1.49" url="packs/DNSTechpack/files/libs1102/Tesla-1.10.2-1.2.1.49.jar" file="Tesla-1.10.2-1.2.1.49.jar" md5="c8d1afc04b8dfea3725bb53c9b378ade" download="server" type="mods" website="http://www.curseforge.com/projects/244651/" authors="Darkhax" colour="Green2" description="A modern power API"/>
         
-        <mod name="ThutCore" version="3.6.3" url="packs/DNSTechpack/files/libs1102/thutcore-1.9.4-3.6.3.jar" file="thutcore-1.9.4-3.6.3.jar" md5="ba1d06a5a22a49351edc58f9257afcbb" download="server" type="mods" website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=ThutCore+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" colour="Green2" description="API used by Thut's Mods"/>
+        <mod name="ThutCore" version="3.6.4" url="packs/DNSTechpack/files/libs1102/thutcore-1.9.4-3.6.4.jar" file="thutcore-1.9.4-3.6.4.jar" md5="89678b563f61d7798eb6e3d107ac473d" download="server" type="mods" website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=ThutCore+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" colour="Green2" description="API used by Thut's Mods"/>
         
         <mod name="Zero CORE" version="1.10.2-0.0.8.0" url="packs/DNSTechpack/files/libs1102/zerocore-1.10.2-0.0.8.0.jar" file="zerocore-1.10.2-0.0.8.0.jar" md5="0933cdf7210ef0186a19631f75438fc2" download="server" type="mods" website="http://zerono.it/" authors="ZeroNoRyouki" colour="Green2" description="Utility mod and multiblock API"/>
         
@@ -134,7 +134,7 @@
         
         <mod name="ChickenChunks" version="2.1.4.38" url="packs/DNSTechpack/files/libs1102/ChickenChunks-1.10.2-2.1.4.38-universal.jar" file="ChickenChunks-1.10.2-2.1.4.38-universal.jar" md5="520308793180b569ab823b4fb4e1f3c0" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones" description="Advanced chunkloading management Credits: Sanguine - Texture Supporters:"/>
         
-        <mod name="Chisel" version="1.9.4-0.0.6.48" url="packs/DNSTechpack/files/libs1102/Chisel-MC1.9.4-0.0.6.48.jar" file="Chisel-MC1.9.4-0.0.6.48.jar" md5="64cf4d90460d29c28abab1b24a5a0f79" download="server" type="mods" website="http://www.curseforge.com/projects/235279/" authors="tterrag1098,Drullkus,Minecreatr" description="Chisel: A New Hope. For 1.7 and 1.8!"/>
+        <mod name="Chisel" version="0.0.6.50" url="packs/DNSTechpack/files/libs1102/Chisel-MC1.9.4-0.0.6.50.jar" file="Chisel-MC1.9.4-0.0.6.50.jar" md5="ab1363b35151845c2bb0ea120eb5a4bf" download="server" type="mods" website="http://www.curseforge.com/projects/235279/" authors="tterrag1098,Drullkus,Minecreatr" description="Chisel: A New Hope. For 1.7 and 1.8!"/>
         
         <mod name="Chisels &amp; Bits" version="12.4" url="packs/DNSTechpack/files/libs1102/chiselsandbits-12.4.jar" file="chiselsandbits-12.4.jar" md5="83ed644e237ce966c410946a1a42d761" download="server" type="mods" website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_" authors="AlgorithmX2" description="a mod about Sculpting, Decorating and Aesthetics"/>
         
