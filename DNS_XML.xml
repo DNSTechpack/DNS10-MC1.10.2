@@ -94,7 +94,7 @@
         
         <mod name="Code Chicken Core" version="2.3.5.91" url="packs/DNSTechpack/files/libs1102/CodeChickenCore-1.10.2-2.3.5.91-universal.jar" file="CodeChickenCore-1.10.2-2.3.5.91-universal.jar" md5="82a30efa8470f7b670102f278784d5e8" download="server" type="mods" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
         
-        <mod name="CodeChickenLib" version="2.4.3.132" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.4.3.132-universal.jar" file="CodeChickenLib-1.10.2-2.4.3.132-universal.jar" md5="e8a41d59cb3c54cda1bc213b156f5ed6" download="server" type="dependency" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
+        <mod name="CodeChickenLib" version="2.4.3.133" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.4.3.133-universal.jar" file="CodeChickenLib-1.10.2-2.4.3.133-universal.jar" md5="478962a652133f1adcb960d29deeb593" download="server" type="dependency" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
         
         <mod name="ElecCore | Rendering Library" version="1.6.328" url="packs/DNSTechpack/files/libs1102/ElecCore-1.10.2-1.6.328.jar" file="ElecCore-1.10.2-1.6.328.jar" md5="cb876665032f08bc2f5e8f19cdee045d" download="server" type="mods" website="http://www.curseforge.com/projects/227391/" authors="Elec332" colour="Green2" description="Shared code for Forge mods"/>
         
