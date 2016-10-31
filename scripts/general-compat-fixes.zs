@@ -20,4 +20,4 @@ furnace.addRecipe(<magneticraft:burnt_limestone:0>, <ore:blockLimestone>);
 furnace.addRecipe(<magneticraft:burnt_limestone:2>, <ore:blockLimestoneCobble>);
 
 # Remove iChisel recipe and therefore unobtainable by survival methods. This is to avoid unecessary bug reports (for now)
-recipes.remove(<chisel:ichisel>);
+recipes.remove(<chisel:chisel_hitech>);
