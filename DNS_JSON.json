@@ -2068,12 +2068,12 @@
         },
         {
             "name": "OpenComputers",
-            "version": "1.6.0.37-dev",
-            "url": "packs/DNSTechpack/files/libs1102/OpenComputers-MC1.10.2-1.6.0.37-dev.jar",
-            "file": "OpenComputers-MC1.10.2-1.6.0.37-dev.jar",
+            "version": "1.6.0.43-dev",
+            "url": "packs/DNSTechpack/files/libs1102/OpenComputers-MC1.10.2-1.6.0.43-dev.jar",
+            "file": "OpenComputers-MC1.10.2-1.6.0.43-dev.jar",
             "download": "server",
-            "md5": "e6b2c22a9d419cc00a054ac3a78c5b73",
-            "filesize": 14190479,
+            "md5": "4132d477b113101ca68ec8a5526330f9",
+            "filesize": 14203330,
             "force": false,
             "website": "http://oc.cil.li/",
             "authors": [

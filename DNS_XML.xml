@@ -220,7 +220,7 @@
         
         <mod name="The One Probe" version="1.10-1.2.2" url="packs/DNSTechpack/files/libs1102/theoneprobe-1.10-1.2.2.jar" file="theoneprobe-1.10-1.2.2.jar" md5="8644408475ee2e048a514305f32dd858" download="server" type="mods" website="http://www.curseforge.com/projects/245211/" authors="McJty" description="A Probe to rule them all!"/>
         
-        <mod name="OpenComputers" version="1.6.0.37-dev" url="packs/DNSTechpack/files/libs1102/OpenComputers-MC1.10.2-1.6.0.37-dev.jar" file="OpenComputers-MC1.10.2-1.6.0.37-dev.jar" md5="e6b2c22a9d419cc00a054ac3a78c5b73" download="server" type="mods" website="http://oc.cil.li/" authors="Florian 'Sangar' Nuecke,Johannes 'Lord Joda' Lohrer,Everyone who contributed to the mod on Github - thank you!" description="This mod adds modular computers and robots that can be programmed in Lua."/>
+        <mod name="OpenComputers" version="1.6.0.43-dev" url="packs/DNSTechpack/files/libs1102/OpenComputers-MC1.10.2-1.6.0.43-dev.jar" file="OpenComputers-MC1.10.2-1.6.0.43-dev.jar" md5="4132d477b113101ca68ec8a5526330f9" download="server" type="mods" website="http://oc.cil.li/" authors="Florian 'Sangar' Nuecke,Johannes 'Lord Joda' Lohrer,Everyone who contributed to the mod on Github - thank you!" description="This mod adds modular computers and robots that can be programmed in Lua."/>
         
         <mod name="Ore Dictionary Converter" version="1.9.1" url="packs/DNSTechpack/files/libs1102/OreDictionaryConverter-1.9.1.jar" file="OreDictionaryConverter-1.9.1.jar" md5="777dbb5e200479220b06b468c0f37592" download="server" type="mods" website="https://github.com/EXTER7/OreDictionaryConverter" authors="EXTER" description="Convert between different versions of the same ore using the Forge Ore Dictionary"/>
         
