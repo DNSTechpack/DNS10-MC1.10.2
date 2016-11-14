@@ -2322,6 +2322,58 @@
             "description": "Solar Panels producing Redstone Flux"
         },
         {
+            "name": "Steve's Carts 2",
+            "version": "2.1.0.39",
+            "url": "packs/DNSTechpack/files/libs1102/StevesCarts-1.10.2-2.1.0.39.jar",
+            "file": "StevesCarts-1.10.2-2.1.0.39.jar",
+            "download": "server",
+            "md5": "9eb89143f6f974d890fe0b9ac9d23c90",
+            "filesize": 2158643,
+            "curse_id": 253462,
+            "curse_file_id": 2344827,
+            "force": false,
+            "website": "http://www.curseforge.com/projects/253462/",
+            "authors": [
+                "Vswe"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "A carttastic mod adding a near infinite number of carts possible to the game, through the creation of modular carts."
+        },
+        {
+            "name": "Steve's Factory Manager",
+            "version": "1.0.7",
+            "url": "packs/DNSTechpack/files/libs1102/StevesFactoryManager-1.10.2-1.0.7.jar",
+            "file": "StevesFactoryManager-1.10.2-1.0.7.jar",
+            "download": "server",
+            "md5": "ac1d322602a81bf2d9d572a178f08e2c",
+            "filesize": 689832,
+            "curse_id": 253338,
+            "curse_file_id": 2344843,
+            "force": false,
+            "website": "http://www.curseforge.com/projects/253338/",
+            "donation": "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/steves-factory-manager-reborn?gameCategorySlug=mc-mods&projectID=253338&cn=Add+special+instructions+to+the+addon+author()&business=tnicholls%40hotmail.co.uk&bn=PP-Donat",
+            "authors": [
+                "Vswe",
+                "Gigabit101"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Steve's Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines"
+        },
+        {
             "name": "Storage Drawers",
             "version": "1.10.2-3.4.3",
             "url": "packs/DNSTechpack/files/libs1102/StorageDrawers-1.10.2-3.4.3.jar",
