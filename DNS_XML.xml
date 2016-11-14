@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.0.0</version>
+        <version>10.0.0.1</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -132,7 +132,7 @@
         
         <mod name="Better Builder's Wands" version="0.6.5" url="packs/DNSTechpack/files/libs1102/BetterBuildersWands-0.6.5-1.10r1388595fc7.jar" file="BetterBuildersWands-0.6.5-1.10r1388595fc7.jar" md5="b04686ccac361027c25e3cc926b13dda" download="server" type="mods" website="http://www.curseforge.com/projects/238403/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/better-builders-wands?gameCategorySlug=mc-mods&amp;projectID=238403&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:" authors="Portablejim" description="Wands that allow placing of multiple blocks at a time"/>
         
-        <mod name="Biomes O' Plenty" version="5.0.0" url="packs/DNSTechpack/files/libs1102/BiomesOPlenty-1.10.2-5.0.0.2093-universal.jar" file="BiomesOPlenty-1.10.2-5.0.0.2093-universal.jar" md5="58c6d52e8e09e224d0642de6bf59bda1" download="server" type="mods" website="http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC" authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80" description="Adds over 50 new biomes, blocks, and more!"/>
+        <mod name="Biomes O' Plenty" version="5.0.0" url="packs/DNSTechpack/files/libs1102/BiomesOPlenty-1.10.2-5.0.0.2094-universal.jar" file="BiomesOPlenty-1.10.2-5.0.0.2094-universal.jar" md5="bab2f36117f186607509732bd60f6e4e" download="server" type="mods" website="http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC" authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80" description="Adds over 50 new biomes, blocks, and more!"/>
         
         <mod name="Calculator" version="1.9.4-3.1.2" url="packs/DNSTechpack/files/libs1102/Calculator-1.9.4-3.1.2.jar" file="Calculator-1.9.4-3.1.2.jar" md5="df475a0cf3ebc460932cae2156e4798e" download="server" type="mods" website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40outlook.com&amp;bn=PP-DonationsBF:btn_donat" authors="Ollie Lansdell" description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes. Change the way you craft, change the way you play, change the way you think. Thank you for trying Calculator!"/>
         
@@ -208,7 +208,7 @@
         
         <mod name="MalisisSwitches" version="1.9.2-3.0.0" url="packs/DNSTechpack/files/libs1102/malisisswitches-1.9.4-3.0.0.jar" file="malisisswitches-1.9.4-3.0.0.jar" md5="fc6399f0d22608a763c4214e6c43998d" download="server" type="mods" website="http://www.curseforge.com/projects/240828/" authors="Ordinastie" description="Wireless Switches for Minecraft"/>
         
-        <mod name="Mekanism" version="1.10.2-9.2.0.292" url="packs/DNSTechpack/files/libs1102/Mekanism-1.10.2-9.2.0.292.zip" file="Mekanism-1.10.2-9.2.0.292.zip" md5="ca6a9389a71ba93fff548bba1cc7b247" download="server" type="extract" extractto="mods" website="http://aidancbrady.com/mekanism/" description="Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft."/>
+        <mod name="Mekanism" version="9.2.1-unofficial" url="packs/DNSTechpack/files/libs1102/MekanismAll-1.10.2-9.2.1.homebaked.zip" file="MekanismAll-1.10.2-9.2.1.homebaked.zip" md5="66c00b9706f88335e53345146286b75c" download="server" type="extract" extractto="mods" website="http://aidancbrady.com/mekanism/" description="Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft."/>
         
         <mod name="Mod Tweaker 2" version="2.0.6" url="packs/DNSTechpack/files/libs1102/ModTweaker2-2.0.6.jar" file="ModTweaker2-2.0.6.jar" md5="4c8ece5baf99500cd17e41b7bbfd446b" download="server" type="mods" website="http://www.curseforge.com/projects/220954/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g" authors="Jaredlll08" description="ModTweaker is an addon for MineTweaker 3."/>
         
