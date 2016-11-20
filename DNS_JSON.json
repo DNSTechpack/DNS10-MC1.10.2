@@ -1,5 +1,5 @@
 {
-    "version": "10.0.1.1",
+    "version": "10.0.1.2",
     "minecraft": "1.10.2",
     "memory": 2048,
     "mainClass": {
@@ -2953,7 +2953,7 @@
             "colour": "Red2",
             "type": "mods",
             "client": true,
-            "optional": false,
+            "optional": true,
             "server": true,
             "selected": false,
             "recommended": true,
@@ -3206,7 +3206,7 @@
             "optional": true,
             "server": true,
             "selected": false,
-            "recommended": true,
+            "recommended": false,
             "hidden": false,
             "library": false,
             "description": "A complete rewrite of EE2 for modern Minecraft versions."

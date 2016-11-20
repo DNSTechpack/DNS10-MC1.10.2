@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.1.1</version>
+        <version>10.0.1.2</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -289,7 +289,7 @@
         
         <mod name="Steve's Carts 2" version="2.1.0.51" url="packs/DNSTechpack/files/libs1102/StevesCarts-1.10.2-2.1.0.51.jar" file="StevesCarts-1.10.2-2.1.0.51.jar" md5="93df82f6fe831bf3c0f1576b29061b64" download="server" type="mods" website="http://www.curseforge.com/projects/253462/" authors="Vswe" optional="yes" recommended="yes" colour="Red2" description="A carttastic mod adding a near infinite number of carts possible to the game, through the creation of modular carts."/>
         
-        <mod name="Steve's Factory Manager" version="1.0.8" url="packs/DNSTechpack/files/libs1102/StevesFactoryManager-1.10.2-1.0.8.jar" file="StevesFactoryManager-1.10.2-1.0.8.jar" md5="afaa6445cd481588b5e6248ffc7219a6" download="server" type="mods" website="http://www.curseforge.com/projects/253338/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/steves-factory-manager-reborn?gameCategorySlug=mc-mods&amp;projectID=253338&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-Donat" authors="Vswe, Gigabit101" colour="Red2" recommended="yes" description="Steve's Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines"/>
+        <mod name="Steve's Factory Manager" version="1.0.8" url="packs/DNSTechpack/files/libs1102/StevesFactoryManager-1.10.2-1.0.8.jar" file="StevesFactoryManager-1.10.2-1.0.8.jar" md5="afaa6445cd481588b5e6248ffc7219a6" download="server" type="mods" website="http://www.curseforge.com/projects/253338/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/steves-factory-manager-reborn?gameCategorySlug=mc-mods&amp;projectID=253338&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-Donat" authors="Vswe, Gigabit101" colour="Red2" optional="yes" recommended="yes" description="Steve's Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines"/>
         
         <mod name="TechReborn" version="1.4.11.96" url="packs/DNSTechpack/files/libs1102/TechReborn-1.10.2-1.4.11.96-universal.jar" file="TechReborn-1.10.2-1.4.11.96-universal.jar" md5="bbb593093578bc2b58f1ca94a46a84d4" download="server" type="mods" website="https://github.com/TechReborn/TechReborn" authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector" optional="yes" warning="warnTechReborn" depends="RebornCore" linked="RebornCore" recommended="no" colour="Red2" description="TechReborn, The Gregtech revival you dream about on a cool mid summer's eve."/>
         
@@ -309,7 +309,7 @@
         
         <mod name="Mouse Tweaks" version="2.6.4" url="packs/DNSTechpack/files/libs1102/MouseTweaks-2.6.4-mc1.10.2.jar" file="MouseTweaks-2.6.4-mc1.10.2.jar" md5="6c23b8f7a876336dbab417721ee44137" download="server" type="mods" website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g" authors="YaLTeR" optional="yes" server="no" colour="Gold2" description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."/>
         
-        <mod name="ProjectE" version="1.10.2-PE1.0.6B" url="packs/DNSTechpack/files/libs1102/ProjectE-1.10.2-PE1.0.6B.jar" file="ProjectE-1.10.2-PE1.0.6B.jar" md5="ab24b2e7c89e283c66c2adf200cab9d2" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/226410-projecte" authors="sinkillerj,Moze_Intel" optional="yes" colour="Gold2" description="A complete rewrite of EE2 for modern Minecraft versions."/>
+        <mod name="ProjectE" version="1.10.2-PE1.0.6B" url="packs/DNSTechpack/files/libs1102/ProjectE-1.10.2-PE1.0.6B.jar" file="ProjectE-1.10.2-PE1.0.6B.jar" md5="ab24b2e7c89e283c66c2adf200cab9d2" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/226410-projecte" recommended="no" authors="sinkillerj,Moze_Intel" optional="yes" colour="Gold2" description="A complete rewrite of EE2 for modern Minecraft versions."/>
         
         <!-- <mod name="SpongeForge" version="1.10.2-2073-5.0.0-BETA-1686" url="packs/DNSTechpack/files/libs1102/spongeforge-1.10.2-2073-5.0.0-BETA-1686.jar" file="spongeforge-1.10.2-2073-5.0.0-BETA-1686.jar" md5="4ecaf9afc875d35657e8e68a27103575" download="server" recommended="no" type="mods" website="https://www.spongepowered.org" warning="warnSponge" authors="SpongePowered" optional="yes" colour="Gold2" description="The Sponge API Implementation"/> -->
         
