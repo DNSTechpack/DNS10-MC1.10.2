@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.0.1</version>
+        <version>10.0.1.1</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -229,8 +229,6 @@
         <mod name="Railcraft" version="10.0.0" url="packs/DNSTechpack/files/libs1102/Railcraft_1.10.2-10.0.0.jar" file="Railcraft_1.10.2-10.0.0.jar" md5="eeb14501d81df5a71befbe9702547854" download="server" type="mods" website="http://railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/railcraft?gameCategorySlug=mc-mods&amp;projectID=51195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=CovertJaguar%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG" authors="CovertJaguar" description="Redefine your rails"/>
         
         <mod name="Random Things" version="3.7.7" url="packs/DNSTechpack/files/libs1102/RandomThings-MC1.10.2-3.7.7.jar" file="RandomThings-MC1.10.2-3.7.7.jar" md5="50269a2745d607129cbbba0189d38b07" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/59816-random-things" authors="Lumien" description="Random Things packed into one Mod."/>
-        
-        <mod name="Reap Mod" version="1.3.1" url="packs/DNSTechpack/files/libs1102/ReapMod 1.3.3.jar" file="ReapMod 1.3.3.jar" md5="86137820caa2af611ba358601708f646" download="server" type="mods" website="http://www.curseforge.com/projects/244256/" authors="Max Henkel" description="Harvest crops with right clicking"/>
         
         <mod name="Resource Loader" version="1.5.1" url="packs/DNSTechpack/files/libs1102/ResourceLoader-MC1.9.4-1.5.1.jar" file="ResourceLoader-MC1.9.4-1.5.1.jar" md5="fd851602890014f31b54ad0e009e5612" download="server" type="mods" website="http://www.curseforge.com/projects/226447/" server="no" authors="lumien" description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."/>
         

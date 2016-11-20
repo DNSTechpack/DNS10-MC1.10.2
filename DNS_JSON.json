@@ -1,5 +1,5 @@
 {
-    "version": "10.0.0.1",
+    "version": "10.0.1.1",
     "minecraft": "1.10.2",
     "memory": 2048,
     "mainClass": {
@@ -2193,31 +2193,6 @@
             "hidden": false,
             "library": false,
             "description": "Random Things packed into one Mod."
-        },
-        {
-            "name": "Reap Mod",
-            "version": "1.3.1",
-            "url": "packs/DNSTechpack/files/libs1102/ReapMod 1.3.3.jar",
-            "file": "ReapMod 1.3.3.jar",
-            "download": "server",
-            "md5": "86137820caa2af611ba358601708f646",
-            "filesize": 19126,
-            "curse_id": 244256,
-            "curse_file_id": 2339047,
-            "force": false,
-            "website": "http://www.curseforge.com/projects/244256/",
-            "authors": [
-                "Max Henkel"
-            ],
-            "type": "mods",
-            "client": true,
-            "optional": false,
-            "server": true,
-            "selected": false,
-            "recommended": true,
-            "hidden": false,
-            "library": false,
-            "description": "Harvest crops with right clicking"
         },
         {
             "name": "Resource Loader",
