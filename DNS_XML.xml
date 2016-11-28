@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.1.2</version>
+        <version>10.0.2.1</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -114,7 +114,7 @@
         
         <mod name="TESLA" version="1.10.2-1.2.1.50" url="packs/DNSTechpack/files/libs1102/Tesla-1.10.2-1.2.1.50.jar" file="Tesla-1.10.2-1.2.1.50.jar" md5="924d5f4d7df30c829855ce3cc277fc98" download="server" type="mods" website="http://www.curseforge.com/projects/244651/" authors="Darkhax" colour="Green2" description="A modern power API"/>
         
-        <mod name="ThutCore" version="3.9.0" url="packs/DNSTechpack/files/libs1102/thutcore-3.9.0.jar" file="thutcore-3.9.0.jar" md5="2e7092741bcf54ed9302631c38eb0989" download="server" type="mods" website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=ThutCore+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" colour="Green2" description="API used by Thut's Mods"/>
+        <mod name="ThutCore" version="3.10.1" url="packs/DNSTechpack/files/libs1102/thutcore-3.10.1.jar" file="thutcore-3.10.1.jar" md5="2fcd4385a8db06c1f9f76f388e453564" download="server" type="mods" website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=ThutCore+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" colour="Green2" description="API used by Thut's Mods"/>
         
         <mod name="Valkyrie Lib" version="1.10.2-0.10.3" url="packs/DNSTechpack/files/libs1102/valkyrielib-1.10.2-0.10.5e.jar" file="valkyrielib-1.10.2-0.10.5e.jar" md5="16cb0d79e05838102f4e9d0bc950766a" download="server" type="mods" website="http://minecraft.curseforge.com/projects/valkyrielib" authors="ValkyrieofNight" colour="Green2" description="Library for all of ValkyrieofNight's Mods"/>
         
@@ -138,7 +138,7 @@
         
         <mod name="ChickenChunks" version="2.1.5.42" url="packs/DNSTechpack/files/libs1102/ChickenChunks-1.10.2-2.1.5.42-universal.jar" file="ChickenChunks-1.10.2-2.1.5.42-universal.jar" md5="7bd2885d463713d4d0433b2abf5f9a5f" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones" description="Advanced chunkloading management Credits: Sanguine - Texture Supporters:"/>
         
-        <mod name="Chisel" version="0.0.7.3" url="packs/DNSTechpack/files/libs1102/Chisel-MC1.10.2-0.0.7.3.jar" file="Chisel-MC1.10.2-0.0.7.3.jar" md5="988126cdb5b496d9dabafae5928b659f" download="server" type="mods" website="http://www.curseforge.com/projects/235279/" authors="tterrag1098,Drullkus,Minecreatr" description="Chisel: A New Hope. For 1.7 and 1.8!"/>
+        <mod name="Chisel" version="MC1.10.2-0.0.7.5" url="packs/DNSTechpack/files/libs1102/Chisel-MC1.10.2-0.0.7.5.jar" file="Chisel-MC1.10.2-0.0.7.5.jar" md5="75de0d1464d3b8ce5f21855e5cc52a27" download="server" type="mods" website="http://www.curseforge.com/projects/235279/" authors="tterrag1098,Drullkus,Minecreatr" description="Chisel: A New Hope. For 1.7 and 1.8!"/>
         
         <mod name="Chisels &amp; Bits" version="12.7" url="packs/DNSTechpack/files/libs1102/chiselsandbits-12.7.jar" file="chiselsandbits-12.7.jar" md5="30400ecd228a9faf69decab92a320ee4" download="server" type="mods" website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_" authors="AlgorithmX2" description="a mod about Sculpting, Decorating and Aesthetics"/>
         
@@ -160,7 +160,7 @@
         
         <mod name="Draconic Evolution" version="1.10.2-2.0.3.137" url="packs/DNSTechpack/files/libs1102/Draconic-Evolution-1.10.2-2.0.3.137-universal.jar" file="Draconic-Evolution-1.10.2-2.0.3.137-universal.jar" md5="df1c0eb3555d28da38ac5ef9508ac398" download="server" type="mods" website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do" authors="brandon3055" description="This is a mod that was originally made for the Tolkiencraft mod pack but it has since evolved way beyond that. This mod adds a mot of extremely expensive ant powerful end game items as well as a lot of random useful bits and peaces."/>
         
-        <mod name="Ender IO" version="1.10.2-3.0.1.137_beta" url="packs/DNSTechpack/files/libs1102/EnderIO-1.10.2-3.0.1.137_beta.jar" file="EnderIO-1.10.2-3.0.1.137_beta.jar" md5="794884a1aba9ee86da56ac9c9db57073" download="server" type="mods" website="http://enderio.com" authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,CyanideX" description="Compact conduits, painted things and all sorts of stuff and bling."/>
+        <mod name="Ender IO" version="1.10.2-3.0.1.138_beta" url="packs/DNSTechpack/files/libs1102/EnderIO-1.10.2-3.0.1.138_beta.jar" file="EnderIO-1.10.2-3.0.1.138_beta.jar" md5="384a1afd83570c6635f21d6b6c76156f" download="server" type="mods" website="http://enderio.com" authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,CyanideX" description="Compact conduits, painted things and all sorts of stuff and bling."/>
         
         <mod name="EnderStorage" version="2.1.5.84" url="packs/DNSTechpack/files/libs1102/EnderStorage-1.10.2-2.1.5.84-universal.jar" file="EnderStorage-1.10.2-2.1.5.84-universal.jar" md5="b14b9af02d7becefcd8ffce9b89175f1" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones, covers1624" description="Stores your stuff in the END! Credits: Ecu - original idea, design, chest and pouch texture Rosethorns - tank model Soaryn - tank texture Supporters: Blkdragon112"/>
         
@@ -242,7 +242,7 @@
         
         <mod name="Solar Flux" version="1.5r" url="packs/DNSTechpack/files/libs1102/SolarFluxReborn_1.10.2-1.5r.jar" file="SolarFluxReborn_1.10.2-1.5r.jar" md5="94dad92a41c880fd8a1b8671515db282" download="server" type="mods" website="http://www.curseforge.com/projects/246974/" authors="MrDimkas_Studio" description="Solar Panels producing Redstone Flux"/>
         
-        <mod name="Storage Drawers" version="1.10.2-3.5.2" url="packs/DNSTechpack/files/libs1102/StorageDrawers-1.10.2-3.5.2.jar" file="StorageDrawers-1.10.2-3.5.2.jar" md5="2199b3712ecb137e830550b1d23692ce" download="server" type="mods" website="http://www.jaquadro.com/" authors="jaquadro" description="Multi-drawer storage blocks for quick storage and retrieval."/>
+        <mod name="Storage Drawers" version="1.10.2-3.5.5" url="packs/DNSTechpack/files/libs1102/StorageDrawers-1.10.2-3.5.5.jar" file="StorageDrawers-1.10.2-3.5.5.jar" md5="10f649f63515ae0485ba8bdace58b72c" download="server" type="mods" website="http://www.jaquadro.com/" authors="jaquadro" description="Multi-drawer storage blocks for quick storage and retrieval."/>
         
         <mod name="Substratum" version="1.8.2.1" url="packs/DNSTechpack/files/libs1102/Substratum-1.10.2-1.8.2.1.jar" file="Substratum-1.10.2-1.8.2.1.jar" md5="36f6a84baf87196ec5faa7e1463637bf" download="server" type="mods" website="https://github.com/EXTER7/Substratum" authors="EXTER" description="Base resources and crafting materials."/>
         
@@ -265,7 +265,7 @@
         <!-- Optional Mods -->
         <mod name="--------- Minimaps ---------" version="DNS" colour="Blue" url="packs/DNSTechpack/files/extra/dns.zip" file="dns.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server" recommended="no" type="extract" extractto="root" server="no" optional="yes" website="http://www.dnstechpack.com/" authors="DNS Dev Team" description="separater"/>
         
-        <mod name="JourneyMap" version="1.10.2-5.3.0" url="https://addons-origin.cursecdn.com/files/2348/43/journeymap-1.10.2-5.3.0.jar" file="journeymap-1.10.2-5.3.0.jar" md5="3d2bd18cda76cb8fc01dd47600d72fd8" download="direct" type="mods" optional="yes" server="no" website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick" authors="techbrew,mysticdrew" group="minimap" colour="Blue2" description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."/>
+        <mod name="JourneyMap" version="1.10.2-5.3.1" url="https://addons-origin.cursecdn.com/files/2350/29/journeymap-1.10.2-5.3.1.jar" file="journeymap-1.10.2-5.3.1.jar" md5="8944995c8b85da5f2d7d7a0f815cc010" download="direct" type="mods" optional="yes" server="no" website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick" authors="techbrew,mysticdrew" group="minimap" colour="Blue2" description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."/>
         
         <mod name="MapWriter" version="2.6.19" url="packs/DNSTechpack/files/libs1102/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" optional="yes" server="no" download="server" recommended="no" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map" authors="mapwriter" group="minimap" colour="Blue2" description="An open source mini map mod"/>
         
@@ -293,9 +293,9 @@
         
         <mod name="Steve's Factory Manager" version="1.0.9" url="packs/DNSTechpack/files/libs1102/StevesFactoryManager-1.10.2-1.0.9.jar" file="StevesFactoryManager-1.10.2-1.0.9.jar" md5="d8172a47ffed5a7c365b9622f93eb084" download="server" type="mods" website="http://www.curseforge.com/projects/253338/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/steves-factory-manager-reborn?gameCategorySlug=mc-mods&amp;projectID=253338&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-Donat" authors="Vswe, Gigabit101" colour="Red2" optional="yes" recommended="yes" description="Steve's Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines"/>
         
-        <mod name="TechReborn" version="1.4.12.107" url="packs/DNSTechpack/files/libs1102/TechReborn-1.10.2-1.4.12.107-universal.jar" file="TechReborn-1.10.2-1.4.12.107-universal.jar" md5="7e765bc66f9668a1133e4b8d421de956" download="server" type="mods" website="https://github.com/TechReborn/TechReborn" authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector" optional="yes" warning="warnTechReborn" depends="RebornCore" linked="RebornCore" recommended="no" colour="Red2" description="TechReborn, The Gregtech revival you dream about on a cool mid summer's eve."/>
+        <mod name="TechReborn" version="1.4.13.109" url="packs/DNSTechpack/files/libs1102/TechReborn-1.10.2-1.4.13.109-universal.jar" file="TechReborn-1.10.2-1.4.13.109-universal.jar" md5="af3f60eede6f27e2dd349d4bfb724879" download="server" type="mods" website="https://github.com/TechReborn/TechReborn" authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector" optional="yes" warning="warnTechReborn" depends="RebornCore" linked="RebornCore" recommended="no" colour="Red2" description="TechReborn, The Gregtech revival you dream about on a cool mid summer's eve."/>
         
-        <mod name="RebornCore" version="2.7.3.47" url="packs/DNSTechpack/files/libs1102/RebornCore-1.10.2-2.8.1.64-universal.jar" file="RebornCore-1.10.2-2.8.1.64-universal.jar" md5="d2b5161496e68f2fe1293a09183ae5c8" download="server" type="mods" optional="yes" website="https://github.com/TechReborn/RebornCore" authors="modmuss50,Gigabit101" colour="Red2" recommended="no" description="RebornCore, A core set of classes."/>
+        <mod name="RebornCore" version="2.8.2.69" url="packs/DNSTechpack/files/libs1102/RebornCore-1.10.2-2.8.3.71-universal.jar" file="RebornCore-1.10.2-2.8.3.71-universal.jar" md5="4134f1bcf186104147242561ee874887" download="server" type="mods" optional="yes" website="https://github.com/TechReborn/RebornCore" authors="modmuss50,Gigabit101" colour="Red2" recommended="no" description="RebornCore, A core set of classes."/>
         
         <mod name="------- Agriculture -------" version="DNS" colour="Green" url="packs/DNSTechpack/files/extra/dns.zip" file="dns.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server" recommended="no" type="extract" extractto="root" optional="yes" website="http://www.dnstechpack.com/" authors="DNS Dev Team" description="separater"/>
         
