@@ -113,25 +113,53 @@
     "hoe": {
       "name": "Hoe",
       "icon": "minecraft:diamond_hoe",
-      "toollist": [],
+      "toollist": [
+        "BiomesOPlenty:hoeAmethyst",
+        "BiomesOPlenty:hoeMud",
+        "IC2:itemToolBronzeHoe",
+        "tconstruct:mattock"
+      ],
       "blocklist": []
     },
     "pickaxe": {
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
-      "toollist": [],
+      "toollist": [
+        "BiomesOPlenty:pickaxeAmethyst",
+        "BiomesOPlenty:pickaxeMud",
+        "IC2:itemToolBronzePickaxe",
+        "IC2:itemToolDDrill",
+        "IC2:itemToolDrill",
+        "IC2:itemToolIridiumDrill",
+        "tconstruct:pickaxe"
+      ],
       "blocklist": []
     },
     "shears": {
       "name": "Shears",
       "icon": "minecraft:shears",
-      "toollist": [],
+      "toollist": [
+        "BiomesOPlenty:scytheAmethyst",
+        "BiomesOPlenty:scytheDiamond",
+        "BiomesOPlenty:scytheGold",
+        "BiomesOPlenty:scytheIron",
+        "BiomesOPlenty:scytheMud",
+        "BiomesOPlenty:scytheStone",
+        "BiomesOPlenty:scytheWood",
+        "IC2:itemToolBronzeHoe"
+      ],
       "blocklist": []
     },
     "shovel": {
       "name": "Shovel",
       "icon": "minecraft:diamond_shovel",
-      "toollist": [],
+      "toollist": [
+        "BiomesOPlenty:shovelAmethyst",
+        "BiomesOPlenty:shovelMud",
+        "IC2:itemToolBronzeSpade",
+        "tconstruct:mattock",
+        "tconstruct:shovel"
+      ],
       "blocklist": []
     }
   }
