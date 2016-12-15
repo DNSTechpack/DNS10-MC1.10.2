@@ -15,7 +15,7 @@ Examples of configs or tweaks you could help us with: (Send a pull-request!)
 
 * [ProjectE EMC](https://github.com/DNSTechpack/DNS10-MC1.10.2/blob/beta/config/ProjectE/custom_emc.json)
 * [ProjectE Conversions](https://github.com/DNSTechpack/DNS10-MC1.10.2/tree/beta/config/ProjectE/customConversions)
-* [Veinminer Axes and Trees](https://github.com/DNSTechpack/DNS10-MC1.10.2/blob/beta/config/veinminer/tools-and-blocks.json)
+* [Reap Axes and Trees](https://github.com/DNSTechpack/DNS10-MC1.10.2/blob/beta/config/reap.cfg)
 * [Recipes or Scripts](https://github.com/DNSTechpack/DNS10-MC1.10.2/tree/beta/scripts)
 
 # Requests
