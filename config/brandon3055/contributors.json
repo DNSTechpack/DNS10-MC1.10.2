@@ -48,6 +48,14 @@
     "contributionLevel":3
   },
   {
+    "name":"TheMattaBase",
+    "ign":"TheMattaBase",
+    "contribution":"Friend of brandon3055",
+    "details":"[UNLISTED]",
+    "website":"",
+    "contributionLevel":3
+  },
+  {
     "name":"dezil_nz",
     "ign":"dezil_nz",
     "contribution":"Friend of brandon3055",
@@ -164,6 +172,22 @@
     "ign":"EricBrian",
     "contribution":"Patreon",
     "details":"EricBrian is currently supporting me via Patreon for which i am very grateful!",
+    "website":"",
+    "contributionLevel":1
+  },
+  {
+    "name":"ModAPI",
+    "ign":"ModAPI",
+    "contribution":"Patreon",
+    "details":"ModAPI is currently supporting me via Patreon for which i am very grateful!",
+    "website":"https://twitter.com/AmathewsGaming",
+    "contributionLevel":1
+  },
+  {
+    "name":"Mikepet",
+    "ign":"Mikepet",
+    "contribution":"Patreon",
+    "details":"Mikepetis currently supporting me via Patreon for which i am very grateful!",
     "website":"",
     "contributionLevel":1
   },
