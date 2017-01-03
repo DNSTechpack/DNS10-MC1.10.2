@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.4.3</version>
+        <version>10.0.4.4</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -102,7 +102,7 @@
         
         <mod name="EnderCore" version="0.4.1.62" url="packs/DNSTechpack/files/libs1102/EnderCore-1.10.2-0.4.1.62-beta.jar" file="EnderCore-1.10.2-0.4.1.62-beta.jar" md5="f9a1f9f226ed4e9a7f19c8683c70924a" download="server" type="mods" website="http://enderio.com" authors="tterrag,CrazyPants" colour="Green2" description="Library mod used by EnderIO, EnderZoo, and others"/>
         
-        <mod name="Hammer Core" version="1.2.2" url="packs/DNSTechpack/files/libs1102/HammerCore_1.10.2-1.2.2.jar" file="HammerCore_1.10.2-1.2.2.jar" md5="670d017a23a44968e1357659d74f33b6" download="server" type="mods" website="http://www.curseforge.com/projects/247401/" authors="MrDimkas_Studio" colour="Green2" description="Core used by most of MrDimka's Mods."/>
+        <mod name="Hammer Core" version="1.1.8" url="packs/DNSTechpack/files/libs1102/HammerCore_1.10.2-1.1.8.jar" file="HammerCore_1.10.2-1.1.8.jar" md5="d3392a361d5eec29a956c17a2a233432" download="server" type="mods" website="http://www.curseforge.com/projects/247401/" authors="MrDimkas_Studio" colour="Green2" description="Core used by most of MrDimka's Mods."/>
         
         <mod name="MalisisCore" version="1.10.2-4.2.9" url="packs/DNSTechpack/files/libs1102/malisiscore-1.10.2-4.2.9.jar" file="malisiscore-1.10.2-4.2.9.jar" md5="afe7953285601c2c5a1da849797150c3" download="server" type="mods" website="http://github.com/Ordinastie/MalisisCore" authors="Ordinastie,PaleoCrafter" colour="Green2" description="MalisisCore is a framework dedicated to simplify many processes required during a mod development."/>
         
@@ -216,7 +216,7 @@
         
         <mod name="MalisisSwitches" version="3.1.0" url="packs/DNSTechpack/files/libs1102/malisisswitches-1.10.2-3.1.0.jar" file="malisisswitches-1.10.2-3.1.0.jar" md5="0173fccc0dacc7a3c2817c8b0f3b80a1" download="server" type="mods" website="http://www.curseforge.com/projects/240828/" authors="Ordinastie" description="Wireless Switches for Minecraft"/>
         
-        <mod name="Mekanism" version="9.2.1.295" url="packs/DNSTechpack/files/libs1102/Mekanism-1.10.2-9.2.1.295.zip" file="Mekanism-1.10.2-9.2.1.295.zip" md5="61a52d2c55a769a87d05c86afaf999cd" download="server" type="extract" extractto="mods" website="http://aidancbrady.com/mekanism/" description="Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft."/>
+        <mod name="Mekanism" version="9.2.1-295" url="packs/DNSTechpack/files/libs1102/Mekanism-1.10.2-9.2.1.295-fixed2.zip" file="Mekanism-1.10.2-9.2.1.295-fixed2.zip" md5="b7e9a7424032b6c95587795f061aec61" download="server" type="extract" extractto="mods" website="http://aidancbrady.com/mekanism/" description="Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft."/>
         
         <mod name="Mod Tweaker 2" version="2.0.8" url="packs/DNSTechpack/files/libs1102/ModTweaker2-2.0.8.jar" file="ModTweaker2-2.0.8.jar" md5="17fd0407d348e6b3a37fd25d500bb58f" download="server" type="mods" website="http://www.curseforge.com/projects/220954/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g" authors="Jaredlll08" description="ModTweaker is an addon for MineTweaker 3."/>
         
