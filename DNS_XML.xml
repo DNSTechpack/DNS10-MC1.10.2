@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.4.2</version>
+        <version>10.0.4.3</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
