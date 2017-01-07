@@ -220,6 +220,11 @@
       "weight": 9
     },
     {
+      "oreName": "oreOsmium",
+      "focusColor": "light_blue",
+      "weight": 6
+    },
+    {
       "oreName": "oreIridium",
       "focusColor": "white",
       "weight": 6
