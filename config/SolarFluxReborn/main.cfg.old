@@ -27,6 +27,8 @@ general {
 
     # Factor used to reduce the energy generation during rainy weather. [range: 0.0 ~ 1.0, default: 0.4]
     S:RainProductionFactor=0.4
+    B:SneakClickInfo=false
+    S:SolarPanelHeight=0.375
 
     # Factor used to reduce the energy generation during stormy weather. [range: 0.0 ~ 1.0, default: 0.4]
     S:ThunderProductionFactor=0.4
