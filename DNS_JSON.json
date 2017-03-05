@@ -1,5 +1,5 @@
 {
-    "version": "10.0.5.0",
+    "version": "10.0.6.0",
     "minecraft": "1.10.2",
     "memory": 2048,
     "mainClass": {
@@ -491,12 +491,14 @@
         },
         {
             "name": "CodeChickenLib",
-            "version": "2.5.5.221",
-            "url": "packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.5.5.221-universal.jar",
-            "file": "CodeChickenLib-1.10.2-2.5.5.221-universal.jar",
+            "version": "2.5.6.233",
+            "url": "packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.5.6.233-universal.jar",
+            "file": "CodeChickenLib-1.10.2-2.5.6.233-universal.jar",
             "download": "server",
-            "md5": "82cea81419251c12806ddc1dc4e3cccb",
-            "filesize": 676166,
+            "md5": "2735f66de9c5d03f049c6963c2ef5353",
+            "filesize": 677088,
+            "curse_id": 242818,
+            "curse_file_id": 2388635,
             "force": false,
             "website": "http://chickenbones.net/",
             "colour": "Green2",
@@ -511,7 +513,31 @@
             "description": "Core mod / library for ChickenBones' mods."
         },
         {
-            "name": "compatlayer",
+            "name": "CoFH Core",
+            "version": "4.0.0.127",
+            "url": "packs/DNSTechpack/files/libs1102/CoFHCore-1.10.2-4.0.0.127-universal.jar",
+            "file": "CoFHCore-1.10.2-4.0.0.127-universal.jar",
+            "download": "server",
+            "md5": "31c96b1320aa8fb8f7e92a85f9fb34ac",
+            "filesize": 1006306,
+            "force": false,
+            "website": "http://www.teamcofh.com",
+            "authors": [
+                "Team CoFH"
+            ],
+            "colour": "Green2",
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Required for all CoFH Mods. Also provides some customization options for Minecraft."
+        },
+        {
+            "name": "Compatlayer",
             "version": "1.10-0.2.2",
             "url": "packs/DNSTechpack/files/libs1102/compatlayer-1.10-0.2.2.jar",
             "file": "compatlayer-1.10-0.2.2.jar",
@@ -904,6 +930,31 @@
             "hidden": false,
             "library": false,
             "description": "separater"
+        },
+        {
+            "name": "Actually Additions",
+            "version": "r103",
+            "url": "packs/DNSTechpack/files/libs1102/ActuallyAdditions-1.11.2-r103.jar",
+            "file": "ActuallyAdditions-1.11.2-r103.jar",
+            "download": "server",
+            "md5": "79c12947e7364b773ea984f4707023ae",
+            "filesize": 2724173,
+            "curse_id": 228404,
+            "curse_file_id": 2388257,
+            "force": false,
+            "website": "http://github.com/Ellpeck/ActuallyAdditions",
+            "authors": [
+                "Ellpeck"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Do you want Automation? Wireless Transport? Better Machines? A cup o' Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!"
         },
         {
             "name": "Advanced Generators",
@@ -1382,6 +1433,8 @@
             "download": "server",
             "md5": "1889ac25e2a03b71303c930e7215fff7",
             "filesize": 223176,
+            "curse_id": 245174,
+            "curse_file_id": 2387900,
             "force": false,
             "website": "http://www.minecraftforum.net/topic/909223",
             "authors": [
@@ -1923,14 +1976,14 @@
         },
         {
             "name": "Just Enough Items",
-            "version": "3.14.7.413",
-            "url": "packs/DNSTechpack/files/libs1102/jei_1.10.2-3.14.7.413.jar",
-            "file": "jei_1.10.2-3.14.7.413.jar",
+            "version": "3.14.7.414",
+            "url": "packs/DNSTechpack/files/libs1102/jei_1.10.2-3.14.7.414.jar",
+            "file": "jei_1.10.2-3.14.7.414.jar",
             "download": "server",
-            "md5": "07af97eebdb7749f59ff4168df4973c9",
-            "filesize": 468312,
+            "md5": "1cc6f4a7c6326df4c2ab529a1097052f",
+            "filesize": 468309,
             "curse_id": 238222,
-            "curse_file_id": 2386234,
+            "curse_file_id": 2386319,
             "force": false,
             "website": "https://github.com/mezz/JustEnoughItems",
             "authors": [
@@ -2122,12 +2175,12 @@
         },
         {
             "name": "Not Enough Items",
-            "version": "1.10.2-2.1.3.202",
-            "url": "packs/DNSTechpack/files/libs1102/NotEnoughItems-1.10.2-2.1.3.202-universal.jar",
-            "file": "NotEnoughItems-1.10.2-2.1.3.202-universal.jar",
+            "version": "2.1.3.203",
+            "url": "packs/DNSTechpack/files/libs1102/NotEnoughItems-1.10.2-2.1.3.203-universal.jar",
+            "file": "NotEnoughItems-1.10.2-2.1.3.203-universal.jar",
             "download": "server",
-            "md5": "55c670c26ae94210602ebe583bf6c371",
-            "filesize": 584090,
+            "md5": "47e698aa8890d37ab156e86e5d0d0f38",
+            "filesize": 582389,
             "force": false,
             "website": "http://chickenbones.net/",
             "type": "mods",
@@ -2295,6 +2348,31 @@
             "description": "Random Things packed into one Mod."
         },
         {
+            "name": "Redstone Arsenal",
+            "version": "2.0.0.15",
+            "url": "packs/DNSTechpack/files/libs1102/RedstoneArsenal-1.10.2-2.0.0.15-universal.jar",
+            "file": "RedstoneArsenal-1.10.2-2.0.0.15-universal.jar",
+            "download": "server",
+            "md5": "4d682c303225d60b55350c24123d6121",
+            "filesize": 209541,
+            "curse_id": 70631,
+            "curse_file_id": 2388878,
+            "force": false,
+            "website": "http://www.teamcofh.com",
+            "authors": [
+                "Team CoFH"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!"
+        },
+        {
             "name": "Resource Loader",
             "version": "1.5.1",
             "url": "packs/DNSTechpack/files/libs1102/ResourceLoader-MC1.9.4-1.5.1.jar",
@@ -2448,31 +2526,6 @@
             "description": "Multi-drawer storage blocks for quick storage and retrieval."
         },
         {
-            "name": "Substratum",
-            "version": "1.8.2.1",
-            "url": "packs/DNSTechpack/files/libs1102/Substratum-1.10.2-1.8.2.1.jar",
-            "file": "Substratum-1.10.2-1.8.2.1.jar",
-            "download": "server",
-            "md5": "36f6a84baf87196ec5faa7e1463637bf",
-            "filesize": 600971,
-            "curse_id": 241113,
-            "curse_file_id": 2348679,
-            "force": false,
-            "website": "https://github.com/EXTER7/Substratum",
-            "authors": [
-                "EXTER"
-            ],
-            "type": "mods",
-            "client": true,
-            "optional": false,
-            "server": true,
-            "selected": false,
-            "recommended": true,
-            "hidden": false,
-            "library": false,
-            "description": "Base resources and crafting materials."
-        },
-        {
             "name": "Super Circuit Maker",
             "version": "1.0.4",
             "url": "packs/DNSTechpack/files/libs1102/SuperCircuitMaker-1.0.4.jar",
@@ -2576,6 +2629,54 @@
             "hidden": false,
             "library": false,
             "description": "Basic machines & Tools that use Tesla power."
+        },
+        {
+            "name": "Thermal Expansion",
+            "version": "2.0.0.64",
+            "url": "packs/DNSTechpack/files/libs1102/ThermalExpansion-1.10.2-2.0.0.64-universal.jar",
+            "file": "ThermalExpansion-1.10.2-2.0.0.64-universal.jar",
+            "download": "server",
+            "md5": "f41013dfcdbc51f3f6ff183756685783",
+            "filesize": 1622748,
+            "force": false,
+            "website": "http://www.teamcofh.com",
+            "authors": [
+                "Team CoFH"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Expanding Minecraft Thermally - provides new options for automation and processing!"
+        },
+        {
+            "name": "Thermal Foundation",
+            "version": "2.0.0.64",
+            "url": "packs/DNSTechpack/files/libs1102/ThermalFoundation-1.10.2-2.0.0.64-universal.jar",
+            "file": "ThermalFoundation-1.10.2-2.0.0.64-universal.jar",
+            "download": "server",
+            "md5": "b4fbd0cc9d2bf04fc7f8d93c0449fdab",
+            "filesize": 1817615,
+            "curse_id": 222880,
+            "curse_file_id": 2388877,
+            "force": false,
+            "website": "http://www.teamcofh.com",
+            "authors": [
+                "Team CoFH"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "The foundation of a Thermally enhanced world!"
         },
         {
             "name": "Thut's Elevators",
@@ -2898,6 +2999,33 @@
             "description": "separater"
         },
         {
+            "name": "Applied Energistics 2",
+            "version": "rv4-alpha-11",
+            "url": "packs/DNSTechpack/files/libs1102/appliedenergistics2-rv4-alpha-11.jar",
+            "file": "appliedenergistics2-rv4-alpha-11.jar",
+            "download": "server",
+            "md5": "eb260814bd83440787cc3a97dcd8e645",
+            "filesize": 3369219,
+            "curse_id": 223794,
+            "curse_file_id": 2362522,
+            "force": false,
+            "website": "http://ae2.ae-mod.info",
+            "authors": [
+                "AlgorithmX2"
+            ],
+            "colour": "Red2",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "group": "AE2",
+            "description": "A Mod about Matter, Energy and using them to conquer the world.."
+        },
+        {
             "name": "Magneticraft",
             "version": "1.0.2",
             "url": "packs/DNSTechpack/files/libs1102/magneticraft-1.0.2-release.jar",
@@ -2979,6 +3107,7 @@
             "recommended": true,
             "hidden": false,
             "library": false,
+            "group": "AE2",
             "description": "A Minecraft mod all about storage."
         },
         {
@@ -3310,6 +3439,33 @@
             "hidden": false,
             "library": false,
             "description": "A complete rewrite of EE2 for modern Minecraft versions."
+        },
+        {
+            "name": "Tinkers Tool Leveling",
+            "version": "1.0.1",
+            "url": "packs/DNSTechpack/files/libs1102/TinkerToolLeveling-1.10.2-1.0.1.jar",
+            "file": "TinkerToolLeveling-1.10.2-1.0.1.jar",
+            "download": "server",
+            "md5": "9e8b66e96c864787e52f36cc9c172490",
+            "filesize": 91362,
+            "curse_id": 250957,
+            "curse_file_id": 2338790,
+            "force": false,
+            "website": "https://github.com/SlimeKnights/TinkersToolLeveling",
+            "donation": "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&projectID=250957&cn=Add+special+instructions+to+the+addon+author()&business=bernhard.bonigl%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&projectID=250957&lc=US&item_name=Tinkers%27+Tool+Leveling+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD",
+            "authors": [
+                "boni"
+            ],
+            "colour": "Gold2",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "A small mod that gives your tools XP and awards extra modifiers on levelup"
         },
         {
             "name": "WorldEdit",

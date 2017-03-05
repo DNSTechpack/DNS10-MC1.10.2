@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>10.0.5.0</version>
+        <version>10.0.6.0</version>
         <minecraft>1.10.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -94,9 +94,11 @@
         
         <mod name="CodeChicken Core" version="2.4.0.101" url="packs/DNSTechpack/files/libs1102/CodeChickenCore-1.10.2-2.4.0.101-universal.jar" file="CodeChickenCore-1.10.2-2.4.0.101-universal.jar" md5="f6c2bcd6939a32dea4477bb98a4473aa" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones" colour="Green2" description="Base common code for all chickenbones mods."/>
         
-        <mod name="CodeChickenLib" version="2.5.5.221" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.5.5.221-universal.jar" file="CodeChickenLib-1.10.2-2.5.5.221-universal.jar" md5="82cea81419251c12806ddc1dc4e3cccb" download="server" type="dependency" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
+        <mod name="CodeChickenLib" version="2.5.6.233" url="packs/DNSTechpack/files/libs1102/CodeChickenLib-1.10.2-2.5.6.233-universal.jar" file="CodeChickenLib-1.10.2-2.5.6.233-universal.jar" md5="2735f66de9c5d03f049c6963c2ef5353" download="server" type="dependency" website="http://chickenbones.net/" colour="Green2" description="Core mod / library for ChickenBones' mods."/>
         
-        <mod name="compatlayer" version="1.10-0.2.2" url="packs/DNSTechpack/files/libs1102/compatlayer-1.10-0.2.2.jar" file="compatlayer-1.10-0.2.2.jar" md5="ffdd265386306d6550f0ad8542ea597b" download="server" type="mods" website="http://www.curseforge.com/projects/253729/" authors="McJty" colour="Green2" description="Compatibility layer to make migrating between different vanilla/forge versions easier"/>
+        <mod name="CoFH Core" version="4.0.0.127" url="packs/DNSTechpack/files/libs1102/CoFHCore-1.10.2-4.0.0.127-universal.jar" file="CoFHCore-1.10.2-4.0.0.127-universal.jar" md5="31c96b1320aa8fb8f7e92a85f9fb34ac" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" colour="Green2" description="Required for all CoFH Mods. Also provides some customization options for Minecraft." />
+        
+        <mod name="Compatlayer" version="1.10-0.2.2" url="packs/DNSTechpack/files/libs1102/compatlayer-1.10-0.2.2.jar" file="compatlayer-1.10-0.2.2.jar" md5="ffdd265386306d6550f0ad8542ea597b" download="server" type="mods" website="http://www.curseforge.com/projects/253729/" authors="McJty" colour="Green2" description="Compatibility layer to make migrating between different vanilla/forge versions easier"/>
         
         <mod name="ElecCore | Rendering Library" version="1.6.379" url="packs/DNSTechpack/files/libs1102/ElecCore-1.10.2-1.6.379.jar" file="ElecCore-1.10.2-1.6.379.jar" md5="7c3bcc2c853b327df4389f7d19f0d4ef" download="server" type="mods" website="http://www.curseforge.com/projects/227391/" authors="Elec332" colour="Green2" description="Shared code for Forge mods"/>
         
@@ -127,6 +129,8 @@
         
         <!-- Default (Non-optional) Mods -->
         <mod name="----- Default Mods -----" version="DNS" colour="Blue" url="packs/DNSTechpack/files/extra/dns.zip" file="dns.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server" type="extract" extractto="root" website="http://www.dnstechpack.com/" authors="DNS Dev Team" description="separater"/>
+        
+        <mod name="Actually Additions" version="r103" url="packs/DNSTechpack/files/libs1102/ActuallyAdditions-1.11.2-r103.jar" file="ActuallyAdditions-1.11.2-r103.jar" md5="79c12947e7364b773ea984f4707023ae" download="server" type="mods" website="http://github.com/Ellpeck/ActuallyAdditions" authors="Ellpeck" description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!" />
         
         <mod name="Advanced Generators" version="0.9.20.22" url="packs/DNSTechpack/files/libs1102/generators-0.9.20.22-mc1.10.2.jar" file="generators-0.9.20.22-mc1.10.2.jar" md5="e1eece28c008f7da92ff4cde059117d7" download="server" type="mods" website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/advanced-generators?gameCategorySlug=mc-mods&amp;projectID=223622&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_dona" authors="bdew" description="Freeform Multiblock generators that produce MJ, RF and EU"/>
         
@@ -208,7 +212,7 @@
         
         <mod name="JEI Bees" version="0.9.0.5" url="packs/DNSTechpack/files/libs1102/jeibees-0.9.0.5-mc1.10.2.jar" file="jeibees-0.9.0.5-mc1.10.2.jar" md5="b9ba35370400fe1e234ef65c7b6de000" download="server" type="mods" website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/jei-bees?gameCategorySlug=mc-mods&amp;projectID=248370&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif" authors="bdew" description="Adds JEI recipes that show breeding and products from Forestry bees, trees and butterflies."/>
         
-        <mod name="Just Enough Items" version="3.14.7.413" url="packs/DNSTechpack/files/libs1102/jei_1.10.2-3.14.7.413.jar" file="jei_1.10.2-3.14.7.413.jar" md5="07af97eebdb7749f59ff4168df4973c9" download="server" type="mods" website="https://github.com/mezz/JustEnoughItems" authors="mezz" description="Simple recipe and item helper."/>
+        <mod name="Just Enough Items" version="3.14.7.414" url="packs/DNSTechpack/files/libs1102/jei_1.10.2-3.14.7.414.jar" file="jei_1.10.2-3.14.7.414.jar" md5="1cc6f4a7c6326df4c2ab529a1097052f" download="server" type="mods" website="https://github.com/mezz/JustEnoughItems" authors="mezz" description="Simple recipe and item helper."/>
         
         <mod name="Just Enough Resources" version="0.5.9.3" url="packs/DNSTechpack/files/libs1102/JustEnoughResources-1.10.2-0.5.9.3.jar" file="JustEnoughResources-1.10.2-0.5.9.3.jar" md5="b43826f0c0774c81eeb9bea9e5b06643" download="server" type="mods" website="http://www.curseforge.com/projects/240630/" authors="way2muchnoise" description="Adds Resources and Mob Drops to JEI"/>
         
@@ -224,7 +228,7 @@
         
         <mod name="Neat" version="1.3-12" url="packs/DNSTechpack/files/libs1102/Neat 1.3-12.jar" file="Neat 1.3-12.jar" md5="aaf89d4f2dc07a29e53e2c0e7ac50918" download="server" type="mods" website="http://www.vazkii.us" authors="Vazkii" description="Minimalistic Functional Unit Plates for the modern Minecrafter"/>
         
-        <mod name="Not Enough Items" version="1.10.2-2.1.3.202" url="packs/DNSTechpack/files/libs1102/NotEnoughItems-1.10.2-2.1.3.202-universal.jar" file="NotEnoughItems-1.10.2-2.1.3.202-universal.jar" md5="55c670c26ae94210602ebe583bf6c371" download="server" type="mods" website="http://chickenbones.net/" description="Browse all items and blocks within the game, see crating recipes and access cheat and utility menus."/>
+        <mod name="Not Enough Items" version="2.1.3.203" url="packs/DNSTechpack/files/libs1102/NotEnoughItems-1.10.2-2.1.3.203-universal.jar" file="NotEnoughItems-1.10.2-2.1.3.203-universal.jar" md5="47e698aa8890d37ab156e86e5d0d0f38" download="server" type="mods" website="http://chickenbones.net/" description="Browse all items and blocks within the game, see crating recipes and access cheat and utility menus."/>
         
         <mod name="The One Probe" version="1.1x-1.4.4" url="packs/DNSTechpack/files/libs1102/theoneprobe-1.1x-1.4.4.jar" file="theoneprobe-1.1x-1.4.4.jar" md5="2b9cec905a021868554a233c86062fcd" download="server" type="mods" website="http://www.curseforge.com/projects/245211/" authors="McJty" description="A Probe to rule them all!"/>
         
@@ -238,6 +242,8 @@
         
         <mod name="Random Things" version="3.7.7" url="packs/DNSTechpack/files/libs1102/RandomThings-MC1.10.2-3.7.7.jar" file="RandomThings-MC1.10.2-3.7.7.jar" md5="50269a2745d607129cbbba0189d38b07" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/59816-random-things" authors="Lumien" description="Random Things packed into one Mod."/>
         
+        <mod name="Redstone Arsenal" version="2.0.0.15" url="packs/DNSTechpack/files/libs1102/RedstoneArsenal-1.10.2-2.0.0.15-universal.jar" file="RedstoneArsenal-1.10.2-2.0.0.15-universal.jar" md5="4d682c303225d60b55350c24123d6121" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" />
+        
         <mod name="Resource Loader" version="1.5.1" url="packs/DNSTechpack/files/libs1102/ResourceLoader-MC1.9.4-1.5.1.jar" file="ResourceLoader-MC1.9.4-1.5.1.jar" md5="fd851602890014f31b54ad0e009e5612" download="server" type="mods" website="http://www.curseforge.com/projects/226447/" server="no" authors="lumien" description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."/>
         
         <mod name="RFTools" version="1.1x-5.84" url="packs/DNSTechpack/files/libs1102/rftools-1.1x-5.84.jar" file="rftools-1.1x-5.84.jar" md5="50359c9bed842aae3484936867f142c2" download="server" type="mods" website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate" authors="McJty" description="RedFlux tools"/>
@@ -249,9 +255,7 @@
         <mod name="Solar Flux" version="2.6r" url="packs/DNSTechpack/files/libs1102/SolarFluxReborn_1.10.2-2.6r.jar" file="SolarFluxReborn_1.10.2-2.6r.jar" md5="74bd7e17c431dea20fc829f620729be4" download="server" type="mods" website="http://www.curseforge.com/projects/246974/" authors="MrDimkas_Studio" description="Solar Panels producing Redstone Flux"/>
         
         <mod name="Storage Drawers" version="3.6.0" url="packs/DNSTechpack/files/libs1102/StorageDrawers-1.10.2-3.6.0.jar" file="StorageDrawers-1.10.2-3.6.0.jar" md5="a0411a640f8e4d90edd95af3cb47d70a" download="server" type="mods" website="http://www.jaquadro.com/" authors="jaquadro" description="Multi-drawer storage blocks for quick storage and retrieval."/>
-        
-        <mod name="Substratum" version="1.8.2.1" url="packs/DNSTechpack/files/libs1102/Substratum-1.10.2-1.8.2.1.jar" file="Substratum-1.10.2-1.8.2.1.jar" md5="36f6a84baf87196ec5faa7e1463637bf" download="server" type="mods" website="https://github.com/EXTER7/Substratum" authors="EXTER" description="Base resources and crafting materials."/>
-        
+
         <mod name="Super Circuit Maker" version="1.0.4" url="packs/DNSTechpack/files/libs1102/SuperCircuitMaker-1.0.4.jar" file="SuperCircuitMaker-1.0.4.jar" md5="e30777052219acb5932823e653b5a76b" download="server" type="mods" website="https://minecraft.curseforge.com/projects/super-circuit-maker" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/super-circuit-maker?gameCategorySlug=mc-mods&amp;projectID=248619&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amadornes%40gmail.com&amp;bn=PP-DonationsBF:btn_don" authors="amadornes" description="Making big circuits tiny!"/>
         
         <mod name="Tesla Arsenal" version="1.0" url="packs/DNSTechpack/files/libs1102/EnergyArsenal-1.0-dev-build-2.jar" file="EnergyArsenal-1.0-dev-build-2.jar" md5="e541523f3d6eaa2b18c5b623a9b04c5e" download="server" type="mods" website="http://minecraft.curseforge.com/projects/tesla-arsenal" authors="knoxhack" description="Tesla Arsenal adds tools and weapons that use the energy of Tesla, the energy system added by the Tesla API."/>
@@ -259,6 +263,10 @@
         <mod name="Tesla Coils" version="0.2.3.0" url="packs/DNSTechpack/files/libs1102/teslacoils-0.2.3.0.jar" file="teslacoils-0.2.3.0.jar" md5="f98a95ee3d02189846e59cee050f1bb3" download="server" type="mods" website="http://minecraft.curseforge.com/projects/tesla-coils" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tesla-coils?gameCategorySlug=mc-mods&amp;projectID=247619&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=skidsirongenesisdev%40gmail.com&amp;bn=PP-DonationsBF:btn_d" authors="GunnerWolf" description="Tesla Coils is a simple mod for minecraft that adds Immersive Engineering inspired power transfer for Tesla power machines."/>
         
         <mod name="Tesla Essentials" version="1.3.1" url="packs/DNSTechpack/files/libs1102/modsquad-1.3.1.jar" file="modsquad-1.3.1.jar" md5="e002908d2dcb2bf7324959032fd6a681" download="server" type="mods" website="https://github.com/tjkenmate/TheModdingTrialsMod" authors="Blynd3,tjkenmate,Bread10,Tacomundu12" description="Basic machines &amp; Tools that use Tesla power."/>
+        
+        <mod name="Thermal Expansion" version="2.0.0.64" url="packs/DNSTechpack/files/libs1102/ThermalExpansion-1.10.2-2.0.0.64-universal.jar" file="ThermalExpansion-1.10.2-2.0.0.64-universal.jar" md5="f41013dfcdbc51f3f6ff183756685783" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="Expanding Minecraft Thermally - provides new options for automation and processing!" />
+        
+        <mod name="Thermal Foundation" version="2.0.0.64" url="packs/DNSTechpack/files/libs1102/ThermalFoundation-1.10.2-2.0.0.64-universal.jar" file="ThermalFoundation-1.10.2-2.0.0.64-universal.jar" md5="b4fbd0cc9d2bf04fc7f8d93c0449fdab" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The foundation of a Thermally enhanced world!" />
         
         <mod name="Thut's Elevators" version="4.0.10.b" url="packs/DNSTechpack/files/libs1102/thuttech-4.0.10.b.jar" file="thuttech-4.0.10.b.jar" md5="ef0fcd6fce809b74444c29f7b94f6620" download="server" type="mods" website="http://www.curseforge.com/projects/224375/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=4QYS6APL7PLKA&amp;item_name=Thut%27s+Elevators+(from+curseforge.com)&amp;cmd=_s-xclick" authors="patnevis" description="Adds elevators to minecraft"/>
         
@@ -287,11 +295,13 @@
         
         <mod name="------- Technology -------" version="DNS" colour="Red" url="packs/DNSTechpack/files/extra/dns.zip" file="dns.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server" recommended="no" type="extract" extractto="root" optional="yes" website="http://www.dnstechpack.com/" authors="DNS Dev Team" description="separater"/>
         
+        <mod name="Applied Energistics 2" version="rv4-alpha-11" url="packs/DNSTechpack/files/libs1102/appliedenergistics2-rv4-alpha-11.jar" file="appliedenergistics2-rv4-alpha-11.jar" md5="eb260814bd83440787cc3a97dcd8e645" download="server" type="mods" website="http://ae2.ae-mod.info" optional="yes" group="AE2" authors="AlgorithmX2" colour="Red2" description="A Mod about Matter, Energy and using them to conquer the world.." />
+        
         <mod name="Magneticraft" version="1.0.2" url="packs/DNSTechpack/files/libs1102/magneticraft-1.0.2-release.jar" file="magneticraft-1.0.2-release.jar" md5="91e14e459a23d9bdd527261e7ed4d772" download="server" type="mods" optional="yes" website="http://minecraft.curseforge.com/mc-mods/224808-magneticraft" authors="Cout970,Minecreatr,MattDahEpic,MechWarrior99,Cypher121" colour="Red2" description="Magneticraft: Energy, Industries and Multiblocks!"/>
         
         <mod name="Rarmor" version="1.10.2-r3" url="packs/DNSTechpack/files/libs1102/Rarmor-1.10.2-r3.jar" file="Rarmor-1.10.2-r3.jar" md5="9fa6f00e336afc742ac9580f4fd6dff2" download="server" type="mods" website="http://github.com/Ellpeck/Rarmor" optional="yes" recommended="yes" authors="Ellpeck,previously canitzp" colour="Red2" description="A mod about an RF-powered armor that can be upgraded and modified!"/>
         
-        <mod name="Refined Storage" version="1.2.22" url="packs/DNSTechpack/files/libs1102/refinedstorage-1.2.22.jar" file="refinedstorage-1.2.22.jar" md5="3878cbb21fab676e36c7cd254c0cfe08" download="server" type="mods" website="http://www.curseforge.com/projects/243076/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/refined-storage?gameCategorySlug=mc-mods&amp;projectID=243076&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=raoulvdberge%40gmail.com&amp;bn=PP-DonationsBF:btn_dona" authors="Refined Storage contributors" optional="yes" colour="Red2" description="A Minecraft mod all about storage."/>
+        <mod name="Refined Storage" version="1.2.22" url="packs/DNSTechpack/files/libs1102/refinedstorage-1.2.22.jar" file="refinedstorage-1.2.22.jar" md5="3878cbb21fab676e36c7cd254c0cfe08" download="server" type="mods" website="http://www.curseforge.com/projects/243076/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/refined-storage?gameCategorySlug=mc-mods&amp;projectID=243076&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=raoulvdberge%40gmail.com&amp;bn=PP-DonationsBF:btn_dona" authors="Refined Storage contributors" group="AE2" optional="yes" colour="Red2" description="A Minecraft mod all about storage."/>
         
         <mod name="RFTools Dimensions" version="1.1x-4.54" url="packs/DNSTechpack/files/libs1102/rftoolsdim-1.1x-4.54.jar" file="rftoolsdim-1.1x-4.54.jar" md5="fd77b169e8a76a00609dac01870b9640" download="server" type="mods" optional="yes" website="http://www.curseforge.com/projects/240950/" authors="McJty" colour="Red2" description="RFTools Dimensions Addon"/>
         
@@ -318,6 +328,8 @@
         <mod name="Mouse Tweaks" version="2.6.4" url="packs/DNSTechpack/files/libs1102/MouseTweaks-2.6.4-mc1.10.2.jar" file="MouseTweaks-2.6.4-mc1.10.2.jar" md5="6c23b8f7a876336dbab417721ee44137" download="server" type="mods" website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g" authors="YaLTeR" optional="yes" server="no" colour="Gold2" description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."/>
         
         <mod name="ProjectE" version="1.10.2-PE1.2.0" url="packs/DNSTechpack/files/libs1102/ProjectE-1.10.2-PE1.2.0.jar" file="ProjectE-1.10.2-PE1.2.0.jar" md5="ac3cb87575fce0d607fab26b1b55eace" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/226410-projecte" recommended="no" authors="sinkillerj,Moze_Intel" optional="yes" colour="Gold2" description="A complete rewrite of EE2 for modern Minecraft versions."/>
+        
+        <mod name="Tinkers Tool Leveling" version="1.0.1" url="packs/DNSTechpack/files/libs1102/TinkerToolLeveling-1.10.2-1.0.1.jar" file="TinkerToolLeveling-1.10.2-1.0.1.jar" md5="9e8b66e96c864787e52f36cc9c172490" download="server" type="mods" optional="yes" colour="Gold2" website="https://github.com/SlimeKnights/TinkersToolLeveling" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bernhard.bonigl%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;lc=US&amp;item_name=Tinkers%27+Tool+Leveling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="boni" description="A small mod that gives your tools XP and awards extra modifiers on levelup" />
         
         <!-- <mod name="SpongeForge" version="1.10.2-2073-5.0.0-BETA-1686" url="packs/DNSTechpack/files/libs1102/spongeforge-1.10.2-2073-5.0.0-BETA-1686.jar" file="spongeforge-1.10.2-2073-5.0.0-BETA-1686.jar" md5="4ecaf9afc875d35657e8e68a27103575" download="server" recommended="no" type="mods" website="https://www.spongepowered.org" warning="warnSponge" authors="SpongePowered" optional="yes" colour="Gold2" description="The Sponge API Implementation"/> -->
         
