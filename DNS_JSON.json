@@ -3104,7 +3104,7 @@
             "optional": true,
             "server": true,
             "selected": false,
-            "recommended": true,
+            "recommended": false,
             "hidden": false,
             "library": false,
             "group": "AE2",
@@ -3462,7 +3462,7 @@
             "optional": true,
             "server": true,
             "selected": false,
-            "recommended": true,
+            "recommended": false,
             "hidden": false,
             "library": false,
             "description": "A small mod that gives your tools XP and awards extra modifiers on levelup"
