@@ -9,6 +9,8 @@
         "BiomesOPlenty:mud_axe",
         "IC2:itemToolBronzeAxe",
         "IC2:itemToolChainsaw",
+        "appliedenergistics2:item.ToolCertusQuartzAxe",
+        "appliedenergistics2:item.ToolNetherQuartzAxe",
         "bloodmagic:ItemBoundAxe",
         "bloodmagic:ItemSentientAxe",
         "botania:elementiumAxe",
@@ -117,6 +119,8 @@
         "BiomesOPlenty:hoeAmethyst",
         "BiomesOPlenty:hoeMud",
         "IC2:itemToolBronzeHoe",
+        "appliedenergistics2:item.ToolCertusQuartzHoe",
+        "appliedenergistics2:item.ToolNetherQuartzHoe",
         "tconstruct:mattock"
       ],
       "blocklist": []
@@ -131,6 +135,8 @@
         "IC2:itemToolDDrill",
         "IC2:itemToolDrill",
         "IC2:itemToolIridiumDrill",
+        "appliedenergistics2:item.ToolCertusQuartzPickaxe",
+        "appliedenergistics2:item.ToolNetherQuartzPickaxe",
         "tconstruct:pickaxe"
       ],
       "blocklist": []
@@ -157,6 +163,8 @@
         "BiomesOPlenty:shovelAmethyst",
         "BiomesOPlenty:shovelMud",
         "IC2:itemToolBronzeSpade",
+        "appliedenergistics2:item.ToolCertusQuartzSpade",
+        "appliedenergistics2:item.ToolNetherQuartzSpade",
         "tconstruct:mattock",
         "tconstruct:shovel"
       ],
