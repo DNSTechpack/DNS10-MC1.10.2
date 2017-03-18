@@ -94,6 +94,16 @@
       maxYHeight: 60
       shouldSpawn: false
     }
+    {
+      blockName: tile.techreborn.ore2
+      blockNiceName: Garnierite
+      meta: 2
+      veinSize: 10
+      veinsPerChunk: 2
+      minYHeight: 32
+      maxYHeight: 128
+      shouldSpawn: true
+    }
   ]
   neatherOres:
   [
