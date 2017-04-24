@@ -1,0 +1,72 @@
+{
+  "path": "primordialcrops/plants/diamond_plant.json",
+  "enabled": true,
+  "id": "diamond_plant",
+  "plant_name": "Diamond",
+  "seed_name": "Diamond Seeds",
+  "seed_items": [
+    {
+      "item": "mc:DiamondSeeds",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {},
+    "default": "Diamond. Shiny."
+  },
+  "growth_chance": 1.0,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 3,
+        "chance": 0.95,
+        "required": true,
+        "item": "mc:DiamondEssence",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil",
+	  "fertilised_soil"
+    ],
+    "bases": [],
+    "nearby": {}
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "",
+    "plant_textures": [
+      "mc:blocks/CropBase_0",
+      "mc:blocks/CropBase_0",
+      "mc:blocks/CropBase_0",
+      "mc:blocks/CropBase_1",
+      "mc:blocks/CropBase_1",
+      "mc:blocks/CropBase_2",
+      "mc:blocks/CropBase_2",
+      "mc:blocks/CropDiamond"
+    ]
+  }
+}
