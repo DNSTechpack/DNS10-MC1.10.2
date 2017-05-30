@@ -1,5 +1,5 @@
 {
-  "path": "primordialcrops/plants/certus_quartz__plant.json",
+  "path": "primordialcrops/plants/certus_quartz_plant.json",
   "enabled": true,
   "id": "air_plant",
   "plant_name": "Certus Quartz",
@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -50,10 +52,9 @@
     "max_light": 16,
     "soils": [
       "farmland_soil",
-	  "fertilised_soil"
+      "fertilised_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",
