@@ -1,5 +1,5 @@
 {
-    "version": "10.0.10.0",
+    "version": "10.1.0.0",
     "minecraft": "1.10.2",
     "memory": 2048,
     "mainClass": {
@@ -1217,6 +1217,32 @@
             "description": "Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes. Change the way you craft, change the way you play, change the way you think. Thank you for trying Calculator!"
         },
         {
+            "name": "CCTweaks",
+            "version": "1.4.1",
+            "url": "packs/DNSTechpack/files/libs1102/CCTweaks-1.10.2-1.4.1.jar",
+            "file": "CCTweaks-1.10.2-1.4.1.jar",
+            "download": "server",
+            "md5": "1136d60585a71bd58569866d71e83238",
+            "filesize": 1055837,
+            "curse_id": 232180,
+            "curse_file_id": 2418772,
+            "force": false,
+            "website": "https://github.com/SquidDev-CC/CCTweaks",
+            "authors": [
+                "SquidDev",
+                "ElvishJerricco"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Random tweaks to Computer Craft"
+        },
+        {
             "name": "ChickenChunks",
             "version": "2.2.0.53",
             "url": "packs/DNSTechpack/files/libs1102/ChickenChunks-1.10.2-2.2.0.53-universal.jar",
@@ -1316,6 +1342,33 @@
             "hidden": false,
             "library": false,
             "description": "Compact Solar Arrays, an Industrial Craft 2 mod that adds in three new Solar Panel type blocks: Solar Arrays. Solar Arrays condense 8 (Low Voltage), 64 (Medium Voltage) or 512 (High Voltage) Industrial Craft 2 solar panels into a single block. This significantly reduces the CPU impact of large amounts of Solar Energy gathering so is a common server enhancement. New in 4.0: Solar Hats- charge armor at the same rate as their block counterparts would"
+        },
+        {
+            "name": "ComputerCraft",
+            "version": "1.80pr0",
+            "url": "packs/DNSTechpack/files/libs1102/ComputerCraft1.80pr0.jar",
+            "file": "ComputerCraft1.80pr0.jar",
+            "download": "server",
+            "md5": "039bc1dc8cafc26e0b7e8d49cefa88bb",
+            "filesize": 1534141,
+            "curse_id": 67504,
+            "curse_file_id": 2311039,
+            "force": false,
+            "website": "http://www.computercraft.info",
+            "donation": "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/computercraft?gameCategorySlug=mc-mods&projectID=67504&cn=Add+special+instructions+to+the+addon+author()&business=dratcliffe%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://minecraft.curseforge.com/projects/computercraft?gameCategorySlug=mc-mods&projectID=67504&lc=US&item_name=ComputerCraft+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD",
+            "authors": [
+                "Daniel Ratcliffe",
+                "Aaron Mills"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "ComputerCraft adds Computers, Programming and Robotics to Minecraft."
         },
         {
             "name": "Controlling",
@@ -3038,6 +3091,29 @@
             "hidden": false,
             "library": false,
             "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools"
+        },
+        {
+            "name": "Unborked",
+            "version": "1.0.6",
+            "url": "packs/DNSTechpack/files/libs1102/unborked-1.10.2-1.80pr0-1.0.6.jar",
+            "file": "unborked-1.10.2-1.80pr0-1.0.6.jar",
+            "download": "server",
+            "md5": "6155f16982d974b222c22d9f69b49a5a",
+            "filesize": 89189,
+            "force": false,
+            "website": "https://github.com/SquidDev-CC/CCTweaks",
+            "authors": [
+                "SquidDev"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Makes ComputerCraft 1.80pr0 less buggy for 1.10.2"
         },
         {
             "name": "Vein Miner",
