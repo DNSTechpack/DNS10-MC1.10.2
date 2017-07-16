@@ -1,0 +1,46 @@
+{
+  "hook_pre_world_rendering": {
+    "version": 0,
+    "value": "true"
+  },
+  "activate_player_render_hook": {
+    "version": 0,
+    "value": "true",
+    "comment": [
+      "Purpose: add hook to player rendering code",
+      "Modified class: net.minecraft.client.renderer.entity.RenderPlayer",
+      "Known users: OpenBlocks hangglider",
+      "When disabled: code may fallback to less compatible mechanism (like replacing renderer)"
+    ]
+  },
+  "activate_map_gen_fix": {
+    "version": 0,
+    "value": "true",
+    "comment": [
+      "Purpose: fix bug in vanilla code used to find nearby structures",
+      "Modified class: net.minecraft.world.gen.structure.MapGenStructure",
+      "Known users: OpenBlocks golden eye",
+      "When disabled: features may not work (either silently fail or cause crash)"
+    ]
+  },
+  "activate_player_damage_hook": {
+    "version": 0,
+    "value": "true",
+    "comment": [
+      "Purpose: hook for capturing damage to player (after armor and potion calculations)",
+      "Modified class: net.minecraft.entity.player.EntityPlayer",
+      "Known users: Last Stand enchantment",
+      "When disabled: Last Stand enchantment will not work"
+    ]
+  },
+  "activate_movement_callback": {
+    "version": 0,
+    "value": "true",
+    "comment": [
+      "Purpose: this transformer add hook to player movement controls",
+      "Modified class: net.minecraft.client.entity.EntityPlayerSP",
+      "Known users: OpenBlocks elevator",
+      "When disabled: users usually have fallbacks (elevator will use less accurate algorithm)"
+    ]
+  }
+}
